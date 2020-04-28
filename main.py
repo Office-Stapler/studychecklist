@@ -38,6 +38,7 @@ class App():
                 edited = True
         if not edited:
             courses.append((course, False))
+        courses = sorted(courses, key= lambda x: x[0])
         with open('list.json', 'w+') as fwrite:
             json.dump(courses, fwrite)
         self.list_courses(lbox, finish)
