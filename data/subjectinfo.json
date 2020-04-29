@@ -460,6 +460,96 @@
         "6"
     ],
     [
+        "ADAD2610",
+        "Art and Design for Environmental Challenges",
+        "6"
+    ],
+    [
+        "ADAD3400",
+        "Interactive Installation",
+        "6"
+    ],
+    [
+        "ADAD3402",
+        "Interactive Generative Visualisations",
+        "6"
+    ],
+    [
+        "ADAD4000",
+        "Professional Experience Project A",
+        "6"
+    ],
+    [
+        "ADAD4001",
+        "Professional Experience Project B",
+        "6"
+    ],
+    [
+        "ADAD4100",
+        "Honours Professional Experience Program",
+        "6"
+    ],
+    [
+        "ADAD0901",
+        "Graphics and Contemporary Society",
+        "6"
+    ],
+    [
+        "ADAD9113",
+        "Communication Skills for Creative Disciplines",
+        "6"
+    ],
+    [
+        "ADAD9114",
+        "Research Foundations in Art and Design",
+        "6"
+    ],
+    [
+        "ADAD9211",
+        "New Technologies, Traditional Techniques",
+        "6"
+    ],
+    [
+        "ADAD9212",
+        "Material Thinking",
+        "6"
+    ],
+    [
+        "ADAD9311",
+        "Designing the Experience: Exhibitions and Beyond",
+        "6"
+    ],
+    [
+        "ADAD9312",
+        "Leadership in the Cultural and Creative Industries",
+        "6"
+    ],
+    [
+        "ADAD9406",
+        "Creative Experimentation",
+        "6"
+    ],
+    [
+        "ADAD0901",
+        "Research Thesis FT",
+        "12"
+    ],
+    [
+        "ADAD9113",
+        "Research Thesis PT",
+        "6"
+    ],
+    [
+        "ADAD9114",
+        "Research Literature Review",
+        "6"
+    ],
+    [
+        "ADAD9211",
+        "Research Foundations in Art, Design and Media",
+        "0"
+    ],
+    [
         "AERO3110",
         "Aerospace Design 1",
         "6"
@@ -6550,6 +6640,366 @@
         "6"
     ],
     [
+        "DART1100",
+        "Studio Art Practice 1",
+        "6"
+    ],
+    [
+        "DART1101",
+        "Studio Art Practice 2",
+        "6"
+    ],
+    [
+        "DART1110",
+        "Drawing 1: Foundations",
+        "6"
+    ],
+    [
+        "DART1111",
+        "Life Drawing",
+        "6"
+    ],
+    [
+        "DART1120",
+        "Painting 1: Foundations",
+        "6"
+    ],
+    [
+        "DART1121",
+        "Painting and the Body",
+        "6"
+    ],
+    [
+        "DART1130",
+        "Photography 1: Foundations",
+        "6"
+    ],
+    [
+        "DART1131",
+        "Digital Fine Art Photography",
+        "6"
+    ],
+    [
+        "DART1140",
+        "Printmaking 1: Foundations",
+        "6"
+    ],
+    [
+        "DART1141",
+        "Custom Printing",
+        "6"
+    ],
+    [
+        "DART1142",
+        "Printmaking: Lithography",
+        "6"
+    ],
+    [
+        "DART1150",
+        "Sculpture 1: Foundations",
+        "6"
+    ],
+    [
+        "DART1191",
+        "Ceramics: Method and Meaning",
+        "6"
+    ],
+    [
+        "DART1192",
+        "Fine Arts Field Studies",
+        "6"
+    ],
+    [
+        "DART1200",
+        "Media Arts Gateway 1",
+        "6"
+    ],
+    [
+        "DART1201",
+        "Media Arts Gateway 2",
+        "6"
+    ],
+    [
+        "DART1210",
+        "Animation 1",
+        "6"
+    ],
+    [
+        "DART1220",
+        "Visual Effects 1",
+        "6"
+    ],
+    [
+        "DART1230",
+        "Moving Image 1",
+        "6"
+    ],
+    [
+        "DART1240",
+        "Sound 1",
+        "6"
+    ],
+    [
+        "DART1250",
+        "Interactive Media 1",
+        "6"
+    ],
+    [
+        "DART1300",
+        "Histories of Contemporary Art: Part 1",
+        "6"
+    ],
+    [
+        "DART1301",
+        "Histories of Contemporary Art: Part 2",
+        "6"
+    ],
+    [
+        "DART1302",
+        "Theories of Art History and Culture",
+        "6"
+    ],
+    [
+        "DART1303",
+        "Theories and Practices of Cross-Disciplinary Art",
+        "6"
+    ],
+    [
+        "DART1310",
+        "Australian Art",
+        "6"
+    ],
+    [
+        "DART1340",
+        "Contexts for Art",
+        "6"
+    ],
+    [
+        "DART1350",
+        "Media Arts Histories",
+        "6"
+    ],
+    [
+        "DART1351",
+        "Critical Discourses in Media Arts",
+        "6"
+    ],
+    [
+        "DART2100",
+        "Studio Art Practice 3",
+        "6"
+    ],
+    [
+        "DART2101",
+        "Studio Art Practice 4",
+        "6"
+    ],
+    [
+        "DART2110",
+        "Drawing 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2120",
+        "Painting 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2130",
+        "Photography 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2140",
+        "Printmaking 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2141",
+        "Advanced Custom Printing",
+        "6"
+    ],
+    [
+        "DART2150",
+        "Sculpture 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2190",
+        "Creative Experimentation",
+        "6"
+    ],
+    [
+        "DART2210",
+        "Animation 2",
+        "6"
+    ],
+    [
+        "DART2211",
+        "Animation 3",
+        "6"
+    ],
+    [
+        "DART2220",
+        "Visual Effects 2",
+        "6"
+    ],
+    [
+        "DART2221",
+        "Visual Effects 3",
+        "6"
+    ],
+    [
+        "DART2230",
+        "Moving Image 2: Studio Processes",
+        "6"
+    ],
+    [
+        "DART2231",
+        "Moving Image 3: Advanced Practice",
+        "6"
+    ],
+    [
+        "DART2240",
+        "Sound 2",
+        "6"
+    ],
+    [
+        "DART2241",
+        "Sound 3",
+        "6"
+    ],
+    [
+        "DART2250",
+        "Interactive Media 2",
+        "6"
+    ],
+    [
+        "DART2251",
+        "Interactive Media 3",
+        "6"
+    ],
+    [
+        "DART2310",
+        "Right Here Right Now: Aboriginal Art Since 1984",
+        "6"
+    ],
+    [
+        "DART2311",
+        "East Asian Contemporary Art",
+        "6"
+    ],
+    [
+        "DART2320",
+        "Art and the Body",
+        "6"
+    ],
+    [
+        "DART2321",
+        "Sensing the Arts",
+        "6"
+    ],
+    [
+        "DART2330",
+        "Ecomedia Art Practices",
+        "6"
+    ],
+    [
+        "DART2331",
+        "Data Aesthetics",
+        "6"
+    ],
+    [
+        "DART2341",
+        "Art, Exhibitions, and Institutions",
+        "6"
+    ],
+    [
+        "DART3310",
+        "Art in the 21st Century",
+        "6"
+    ],
+    [
+        "DART3320",
+        "Art, Gender, and Sexuality",
+        "6"
+    ],
+    [
+        "DART3321",
+        "Affect in Art",
+        "6"
+    ],
+    [
+        "DART3330",
+        "Art and the Anthropocene",
+        "6"
+    ],
+    [
+        "DART3331",
+        "Peripheral Visions: The Ethnographic Camera",
+        "6"
+    ],
+    [
+        "DART3340",
+        "Socially Engaged Art",
+        "6"
+    ],
+    [
+        "DART3341",
+        "Writing as Practice",
+        "6"
+    ],
+    [
+        "DART3342",
+        "World Biennales: Field Trip",
+        "6"
+    ],
+    [
+        "DART4101",
+        "Fine Arts Honours Research Project 1",
+        "12"
+    ],
+    [
+        "DART4102",
+        "Fine Arts Honours Research Project 2",
+        "12"
+    ],
+    [
+        "DART4103",
+        "Fine Arts Honours Research Project 2",
+        "6"
+    ],
+    [
+        "DART4201",
+        "Media Arts Honours Research Project 1",
+        "12"
+    ],
+    [
+        "DART4202",
+        "Media Arts Honours Research Project 2",
+        "12"
+    ],
+    [
+        "DART4203",
+        "Media Arts Honours Research Project 2",
+        "6"
+    ],
+    [
+        "DART4300",
+        "Contemporary Art Theories and Methods",
+        "6"
+    ],
+    [
+        "DART4301",
+        "Art Theory Honours Research Project",
+        "12"
+    ],
+    [
+        "DART9200",
+        "Major Exhibitions and Events",
+        "6"
+    ],
+    [
         "DATA1001",
         "Introduction to Data Science and Decisions",
         "6"
@@ -6572,6 +7022,196 @@
     [
         "DATA3299",
         "Data Science Internship 3 (Co-Op)",
+        "6"
+    ],
+    [
+        "DDES1100",
+        "Design Studio 1 - Design Narratives",
+        "6"
+    ],
+    [
+        "DDES1101",
+        "Design Studio 2 - Design Communication",
+        "6"
+    ],
+    [
+        "DDES1110",
+        "3D Visualisation 1 - 3D Virtual Objects",
+        "6"
+    ],
+    [
+        "DDES1120",
+        "Object 1 - Objects and the Hand",
+        "6"
+    ],
+    [
+        "DDES1130",
+        "Experience 1 - Spaces and Senses",
+        "6"
+    ],
+    [
+        "DDES1140",
+        "Graphics 1 - Image and Type",
+        "6"
+    ],
+    [
+        "DDES1150",
+        "Interaction 1 - Principles and Practices",
+        "6"
+    ],
+    [
+        "DDES1160",
+        "Textiles 1 - Concepts and Context",
+        "6"
+    ],
+    [
+        "DDES1200",
+        "Design History and Theory 1",
+        "6"
+    ],
+    [
+        "DDES1201",
+        "Design History and Theory 2",
+        "6"
+    ],
+    [
+        "DDES2100",
+        "Design Studio 3 - Collaborative Industry/Stakeholder Project",
+        "6"
+    ],
+    [
+        "DDES2101",
+        "Design Studio 4 - Interdisciplinary Project",
+        "6"
+    ],
+    [
+        "DDES2102",
+        "Design Professional Practice",
+        "6"
+    ],
+    [
+        "DDES2110",
+        "3D Visualisation 2: Virtual Worlds",
+        "6"
+    ],
+    [
+        "DDES2111",
+        "3D Visualisation 3: Interactive Environments",
+        "6"
+    ],
+    [
+        "DDES2120",
+        "Object 2: Objects and Place",
+        "6"
+    ],
+    [
+        "DDES2121",
+        "Object 3: Objects and the World",
+        "6"
+    ],
+    [
+        "DDES2130",
+        "Experience 2: Spaces of Exhibition",
+        "6"
+    ],
+    [
+        "DDES2131",
+        "Experience 3: Spaces for Performance",
+        "6"
+    ],
+    [
+        "DDES2140",
+        "Graphics 2: Identity and Form",
+        "6"
+    ],
+    [
+        "DDES2141",
+        "Graphics 3: Place and Space",
+        "6"
+    ],
+    [
+        "DDES2150",
+        "Interaction 2: Design Methodologies",
+        "6"
+    ],
+    [
+        "DDES2151",
+        "Interaction 3: Emerging Applications",
+        "6"
+    ],
+    [
+        "DDES2160",
+        "Textiles 2: Experimental Textiles",
+        "6"
+    ],
+    [
+        "DDES2161",
+        "Textiles 3: Future Textiles",
+        "6"
+    ],
+    [
+        "DDES2200",
+        "Design History and Theory 3",
+        "6"
+    ],
+    [
+        "DDES3190",
+        "Mapping and Design Laboratory (mad.lab)",
+        "6"
+    ],
+    [
+        "DDES4101",
+        "Design Honours Studio Research Project 1",
+        "12"
+    ],
+    [
+        "DDES4102",
+        "Design Honours Studio Research Project 2",
+        "12"
+    ],
+    [
+        "DDES4103",
+        "Design Honours Studio Research Project 2",
+        "6"
+    ],
+    [
+        "DDES4200",
+        "Design Research Methods and Theory",
+        "6"
+    ],
+    [
+        "DDES9901",
+        "Designing and Experiencing Immersion",
+        "6"
+    ],
+    [
+        "DDES9902",
+        "Human Dimensions in Immersive Environments",
+        "6"
+    ],
+    [
+        "DDES9903",
+        "Narrative and Sensemaking in Immersive Environments",
+        "6"
+    ],
+    [
+        "DDES9904",
+        "Models, Systems and Solution Design",
+        "6"
+    ],
+    [
+        "DDES9911",
+        "Future Immersive Learning Methodologies",
+        "6"
+    ],
+    [
+        "DDES9914",
+        "Managing Immersive Projects",
+        "6"
+    ],
+    [
+        "DDES9920",
+        "Information Architecture for Immersive Aesthetics",
         "6"
     ],
     [
@@ -18165,6 +18805,231 @@
         "6"
     ],
     [
+        "SAHT6700",
+        "World Biennales: Field Trip",
+        "6"
+    ],
+    [
+        "SAHT9110",
+        "Australian Arts Ecology",
+        "6"
+    ],
+    [
+        "SAHT9112",
+        "Art Writing and Publishing",
+        "6"
+    ],
+    [
+        "SAHT9113",
+        "Cultural Heritage, Ethics & the Law",
+        "6"
+    ],
+    [
+        "SAHT9116",
+        "Research Paper",
+        "6"
+    ],
+    [
+        "SAHT9117",
+        "Contemporary Curating: Theories and Practices",
+        "6"
+    ],
+    [
+        "SAHT9118",
+        "Capstone Project",
+        "6"
+    ],
+    [
+        "SAHT9122",
+        "Audience Engagement",
+        "6"
+    ],
+    [
+        "SAHT9124",
+        "Cultural Management and Policy",
+        "6"
+    ],
+    [
+        "SAHT9131",
+        "Visual and Museum Cultures of the Asia-Pacific Region",
+        "6"
+    ],
+    [
+        "SAHT9138",
+        "Art in the 21st Century",
+        "6"
+    ],
+    [
+        "SAHT9143",
+        "Design History and Theory 1",
+        "6"
+    ],
+    [
+        "SAHT9201",
+        "Conservation, Registration and Handling",
+        "6"
+    ],
+    [
+        "SAHT9204",
+        "Histories of Contemporary Art",
+        "6"
+    ],
+    [
+        "SAHT9310",
+        "Exhibiting Cultures",
+        "6"
+    ],
+    [
+        "SAHT9311",
+        "Curatorial Studio: Social Space",
+        "6"
+    ],
+    [
+        "SART3400",
+        "Painting in the Expanded Field",
+        "6"
+    ],
+    [
+        "SART3401",
+        "Painting Futures Studio",
+        "6"
+    ],
+    [
+        "SART3402",
+        "Painting: Studio in Context",
+        "6"
+    ],
+    [
+        "SART3403",
+        "Painting: Studio Practice",
+        "6"
+    ],
+    [
+        "SART3404",
+        "Printmaking: Expanded Fields",
+        "6"
+    ],
+    [
+        "SART3406",
+        "Printmaking: Media and the Message",
+        "6"
+    ],
+    [
+        "SART3408",
+        "SPI: The Public Domain",
+        "6"
+    ],
+    [
+        "SART3409",
+        "SPI: Self Initiated Work",
+        "6"
+    ],
+    [
+        "SART3410",
+        "SPI: Relational Art",
+        "6"
+    ],
+    [
+        "SART3411",
+        "SPI: Studio Research",
+        "6"
+    ],
+    [
+        "SART3412",
+        "Experimental Drawing",
+        "6"
+    ],
+    [
+        "SART3413",
+        "Drawing: Studio practice",
+        "6"
+    ],
+    [
+        "SART3414",
+        "Photography: Place and the Everyday",
+        "6"
+    ],
+    [
+        "SART3415",
+        "Photography: Independent Studies",
+        "6"
+    ],
+    [
+        "SART3416",
+        "Photography: Public and Private",
+        "6"
+    ],
+    [
+        "SART3417",
+        "Photographies: Expanded Fields",
+        "6"
+    ],
+    [
+        "SART3800",
+        "Professional Practice",
+        "6"
+    ],
+    [
+        "SART9003",
+        "The Consolidated Studio",
+        "6"
+    ],
+    [
+        "SART9102",
+        "Lens and Studio Craft",
+        "6"
+    ],
+    [
+        "SART9106",
+        "Temporal Approaches to Art",
+        "6"
+    ],
+    [
+        "SART9115",
+        "Fine Arts Professional Practice",
+        "6"
+    ],
+    [
+        "SART9203",
+        "Chromatic & Tonal Approaches to Contemporary Art",
+        "6"
+    ],
+    [
+        "SART9204",
+        "Capstone Project",
+        "12"
+    ],
+    [
+        "SART9205",
+        "Project Paper",
+        "6"
+    ],
+    [
+        "SART9206",
+        "The Serial Image: Making Prints",
+        "6"
+    ],
+    [
+        "SART9207",
+        "Line and Mark: Past & Futures",
+        "6"
+    ],
+    [
+        "SART9744",
+        "Fine Arts Field Trip",
+        "6"
+    ],
+    [
+        "SART9745",
+        "Custom Printing",
+        "6"
+    ],
+    [
+        "SART9746",
+        "Advanced Custom Printing",
+        "6"
+    ],
+    [
         "SCIF1004",
         "Science and the Cinema",
         "6"
@@ -18207,6 +19072,256 @@
     [
         "SCIF7010",
         "Leading Science for Impact",
+        "6"
+    ],
+    [
+        "SDES1211",
+        "Integrated Design Computing 2",
+        "6"
+    ],
+    [
+        "SDES2116",
+        "Design Practice",
+        "6"
+    ],
+    [
+        "SDES2167",
+        "Textiles for Fashion",
+        "6"
+    ],
+    [
+        "SDES2168",
+        "Commercial Textile Design",
+        "6"
+    ],
+    [
+        "SDES2170",
+        "Rendering and Illustration for Designers",
+        "6"
+    ],
+    [
+        "SDES2188",
+        "Wheel Throwing in Contemporary Ceramic Practice",
+        "6"
+    ],
+    [
+        "SDES2203",
+        "Drawing for Design",
+        "6"
+    ],
+    [
+        "SDES2414",
+        "Sustainable Design: Theories and Practice",
+        "6"
+    ],
+    [
+        "SDES2463",
+        "Graphics Media: Typography and Publication Design",
+        "6"
+    ],
+    [
+        "SDES2464",
+        "Cultural Textiles: Field Trips",
+        "6"
+    ],
+    [
+        "SDES3166",
+        "Jewellery Design for Fashion",
+        "6"
+    ],
+    [
+        "SDES3174",
+        "Digital Design - Introduction to Web Design",
+        "6"
+    ],
+    [
+        "SDES3400",
+        "Textile Industry and Forecasting",
+        "6"
+    ],
+    [
+        "SDES3401",
+        "Smart Textiles and New Technologies",
+        "6"
+    ],
+    [
+        "SDES3402",
+        "Second Skin: Textiles and the Body",
+        "6"
+    ],
+    [
+        "SDES3403",
+        "Experimental Art Textiles",
+        "6"
+    ],
+    [
+        "SDES3404",
+        "Ceramics: Form and Context",
+        "6"
+    ],
+    [
+        "SDES3405",
+        "Ceramics: Interactive Artefacts",
+        "6"
+    ],
+    [
+        "SDES3406",
+        "Graphics Media: Visual Identity",
+        "6"
+    ],
+    [
+        "SDES3407",
+        "Graphics Media: Data Visualisation, Interactives and Wayfinding",
+        "6"
+    ],
+    [
+        "SDES3408",
+        "Jewellery Installation and Jewellery for the Table",
+        "6"
+    ],
+    [
+        "SDES3409",
+        "Jewellery: Contextual Issues through Bodyworks",
+        "6"
+    ],
+    [
+        "SDES3410",
+        "Object Design: Industry Connections",
+        "6"
+    ],
+    [
+        "SDES3412",
+        "Spatial Design: Visualising Virtual Spaces",
+        "6"
+    ],
+    [
+        "SDES3413",
+        "Spatial Design and Documentation: Structures and Surfaces",
+        "6"
+    ],
+    [
+        "SDES3414",
+        "Integrated Project",
+        "6"
+    ],
+    [
+        "SDES4205",
+        "Information Graphics: Design and Visualising Data",
+        "6"
+    ],
+    [
+        "SDES9203",
+        "Entrepreneurship, Innovation and Creativity",
+        "6"
+    ],
+    [
+        "SDES9204",
+        "Design Studio: Insight, Processes and Communication",
+        "6"
+    ],
+    [
+        "SDES9210",
+        "Critical Approaches to Design Practice",
+        "6"
+    ],
+    [
+        "SDES9211",
+        "Integrated Studio: Culture and Identity",
+        "6"
+    ],
+    [
+        "SDES9213",
+        "Design Studio Project A",
+        "6"
+    ],
+    [
+        "SDES9214",
+        "Design Studio Project B",
+        "6"
+    ],
+    [
+        "SDES9300",
+        "Transforming the Everyday: Domestic Futures",
+        "6"
+    ],
+    [
+        "SDES9305",
+        "Participatory Design for Commercial Contexts",
+        "6"
+    ],
+    [
+        "SDES9311",
+        "Interaction Design Foundations",
+        "6"
+    ],
+    [
+        "SDES9312",
+        "Interaction Design: Human-Centred Design Methods",
+        "6"
+    ],
+    [
+        "SDES9315",
+        "Tangible Interfaces and Interactive Displays",
+        "6"
+    ],
+    [
+        "SDES9316",
+        "Wearable and Bio-Sensing Interactions",
+        "6"
+    ],
+    [
+        "SDES9320",
+        "Exploring 3D Visualisation",
+        "6"
+    ],
+    [
+        "SDES9321",
+        "3D Digital Aesthetics",
+        "6"
+    ],
+    [
+        "SDES9350",
+        "Urban Intervention: People Places and Cultural Contexts",
+        "6"
+    ],
+    [
+        "SDES9352",
+        "Imperatives for a Sustainable Future",
+        "6"
+    ],
+    [
+        "SDES9464",
+        "Cultural Textiles: Field Trips",
+        "6"
+    ],
+    [
+        "SDES9746",
+        "Textiles - Contemporary Studio",
+        "6"
+    ],
+    [
+        "SDES9747",
+        "Introduction to Furniture and Lighting",
+        "6"
+    ],
+    [
+        "SDES9748",
+        "Jewellery Studio",
+        "6"
+    ],
+    [
+        "SDES9760",
+        "Introduction to Graphics Media",
+        "6"
+    ],
+    [
+        "SDES9761",
+        "Contemporary Typography",
+        "6"
+    ],
+    [
+        "SDES9762",
+        "Graphic Design for the Web",
         "6"
     ],
     [
@@ -18583,6 +19698,81 @@
         "SOLA9453",
         "Masters Project C",
         "4"
+    ],
+    [
+        "SOMA2416",
+        "Video Mapping into Sculptural Objects and 3D Spaces",
+        "6"
+    ],
+    [
+        "SOMA2417",
+        "Sound Installation and Soundscape",
+        "6"
+    ],
+    [
+        "SOMA2816",
+        "Introduction to Motion Capture",
+        "6"
+    ],
+    [
+        "SOMA3408",
+        "Animation Processes: Preproduction to Post",
+        "6"
+    ],
+    [
+        "SOMA3409",
+        "Deconstructed Animation Systems",
+        "6"
+    ],
+    [
+        "SOMA3410",
+        "Performative Animation and the Virtual Body",
+        "6"
+    ],
+    [
+        "SOMA3411",
+        "Visual Effects Project",
+        "6"
+    ],
+    [
+        "SOMA3412",
+        "Critiques of Narrative in Moving Image",
+        "6"
+    ],
+    [
+        "SOMA3413",
+        "Audiovisual Studio",
+        "6"
+    ],
+    [
+        "SOMA3414",
+        "Rethinking Sound and Music",
+        "6"
+    ],
+    [
+        "SOMA3415",
+        "Compositional Project",
+        "6"
+    ],
+    [
+        "SOMA3416",
+        "Imaging Effects Workshop",
+        "6"
+    ],
+    [
+        "SOMA3417",
+        "Virtual Control Systems and 3D Surfaces",
+        "6"
+    ],
+    [
+        "SOMA3616",
+        "Professional Practice",
+        "6"
+    ],
+    [
+        "SOMA3801",
+        "Special Project",
+        "6"
     ],
     [
         "SOMS1501",
@@ -19435,6 +20625,11 @@
         "6"
     ],
     [
+        "YCAN8000",
+        "US Cyber Policy and Information Security",
+        "6"
+    ],
+    [
         "YENG5581",
         "Advanced Earth Systems Engineering and Management",
         "6"
@@ -19542,6 +20737,2156 @@
     [
         "YMED5009",
         "Program Evaluation for Emergency Management and Homeland Security",
+        "6"
+    ],
+    [
+        "ZBUS1101",
+        "Organisational Behaviour",
+        "6"
+    ],
+    [
+        "ZBUS1102",
+        "Business Economics",
+        "6"
+    ],
+    [
+        "ZBUS1103",
+        "Introduction to Accounting",
+        "6"
+    ],
+    [
+        "ZBUS1104",
+        "Foundations of Management",
+        "6"
+    ],
+    [
+        "ZBUS2101",
+        "Business Law",
+        "6"
+    ],
+    [
+        "ZBUS2202",
+        "Australia and the World Economy",
+        "6"
+    ],
+    [
+        "ZBUS2206",
+        "Managing People Across Cultures",
+        "6"
+    ],
+    [
+        "ZBUS2207",
+        "Governing Australia: Managing the Public Sector",
+        "6"
+    ],
+    [
+        "ZBUS2208",
+        "Innovation and Organisation",
+        "6"
+    ],
+    [
+        "ZBUS2302",
+        "Leadership",
+        "6"
+    ],
+    [
+        "ZBUS2304",
+        "Management Accounting",
+        "6"
+    ],
+    [
+        "ZBUS2401",
+        "Financial Management",
+        "6"
+    ],
+    [
+        "ZBUS2820",
+        "International Business",
+        "6"
+    ],
+    [
+        "ZBUS2901",
+        "Business Research",
+        "6"
+    ],
+    [
+        "ZBUS2902",
+        "Research Project in Business 1",
+        "6"
+    ],
+    [
+        "ZBUS3102",
+        "Project Management",
+        "6"
+    ],
+    [
+        "ZBUS3103",
+        "Human Resource Management",
+        "6"
+    ],
+    [
+        "ZBUS3104",
+        "Business Capstone",
+        "6"
+    ],
+    [
+        "ZBUS3107",
+        "Illicit Business in the Modern World",
+        "6"
+    ],
+    [
+        "ZBUS3203",
+        "The Making of Economic Policy",
+        "6"
+    ],
+    [
+        "ZBUS3207",
+        "Management and Governance in Developing Countries",
+        "6"
+    ],
+    [
+        "ZBUS3208",
+        "Marketing",
+        "6"
+    ],
+    [
+        "ZBUS3303",
+        "Logistics Management",
+        "6"
+    ],
+    [
+        "ZBUS3901",
+        "Research Project in Business 2",
+        "6"
+    ],
+    [
+        "ZBUS3902",
+        "Research Project in Business 3",
+        "6"
+    ],
+    [
+        "ZBUS4001",
+        "Literature Review (Honours)",
+        "6"
+    ],
+    [
+        "ZBUS4002",
+        "Research Methods (Honours)",
+        "6"
+    ],
+    [
+        "ZBUS4101",
+        "Business Research 1 (Honours)",
+        "12"
+    ],
+    [
+        "ZBUS4102",
+        "Business Research 2 (Honours)",
+        "24"
+    ],
+    [
+        "ZBUS8101",
+        "Strategic Management",
+        "6"
+    ],
+    [
+        "ZBUS8102",
+        "Organisational Behaviour",
+        "6"
+    ],
+    [
+        "ZBUS8103",
+        "Strategic Human Resources",
+        "6"
+    ],
+    [
+        "ZBUS8105",
+        "Finance and Investment Appraisal",
+        "6"
+    ],
+    [
+        "ZBUS8108",
+        "Accounting and Financial Management",
+        "6"
+    ],
+    [
+        "ZBUS8109",
+        "Business Law",
+        "6"
+    ],
+    [
+        "ZBUS8147",
+        "The Business of Managing Projects",
+        "6"
+    ],
+    [
+        "ZBUS8148",
+        "Economic World View",
+        "6"
+    ],
+    [
+        "ZBUS8149",
+        "Introduction to Finance",
+        "6"
+    ],
+    [
+        "ZBUS8201",
+        "Leadership",
+        "6"
+    ],
+    [
+        "ZBUS8203",
+        "Change Management",
+        "6"
+    ],
+    [
+        "ZBUS8204",
+        "Marketing",
+        "6"
+    ],
+    [
+        "ZBUS8205",
+        "Business Ethics",
+        "6"
+    ],
+    [
+        "ZBUS8208",
+        "Humanitarian Logistics",
+        "6"
+    ],
+    [
+        "ZBUS8210",
+        "Critical Analysis in Business",
+        "6"
+    ],
+    [
+        "ZBUS8302",
+        "Logistics Management",
+        "6"
+    ],
+    [
+        "ZBUS8303",
+        "Strategic Procurement and Outsourcing",
+        "6"
+    ],
+    [
+        "ZBUS8306",
+        "Sustaining Capability (Capability and Technology Management College)",
+        "6"
+    ],
+    [
+        "ZBUS8310",
+        "Commercial Skills in the Public Sector",
+        "6"
+    ],
+    [
+        "ZBUS8312",
+        "Logistics Intelligence and Big Data Analysis",
+        "6"
+    ],
+    [
+        "ZBUS8313",
+        "Risk Management in Logistics",
+        "6"
+    ],
+    [
+        "ZBUS8314",
+        "People and Systems",
+        "6"
+    ],
+    [
+        "ZBUS8315",
+        "Driving Performance",
+        "6"
+    ],
+    [
+        "ZBUS8316",
+        "Developing Organisational Capability",
+        "6"
+    ],
+    [
+        "ZBUS8317",
+        "Workforce Planning",
+        "6"
+    ],
+    [
+        "ZBUS8318",
+        "Cross Cultural Management",
+        "6"
+    ],
+    [
+        "ZBUS8501",
+        "Research Project - Business",
+        "6"
+    ],
+    [
+        "ZBUS8502",
+        "Research Project - Business",
+        "12"
+    ],
+    [
+        "ZBUS8911",
+        "Asset Management",
+        "6"
+    ],
+    [
+        "ZBUS8912",
+        "Delivering Capability",
+        "6"
+    ],
+    [
+        "ZBUS8913",
+        "Leadership, Change and Innovation",
+        "6"
+    ],
+    [
+        "ZBUS8101",
+        "Professional Doctorate Dissertation Full-Time",
+        "12"
+    ],
+    [
+        "ZBUS8102",
+        "Professional Doctorate Dissertation Part-Time",
+        "6"
+    ],
+    [
+        "ZEIT1102",
+        "Introduction to Programming",
+        "6"
+    ],
+    [
+        "ZEIT1110",
+        "Computer Games",
+        "6"
+    ],
+    [
+        "ZEIT1190",
+        "Computing and Cyber Security Research 1A",
+        "6"
+    ],
+    [
+        "ZEIT1206",
+        "Design of Electronic Circuits 1",
+        "6"
+    ],
+    [
+        "ZEIT1208",
+        "Introduction to Electrical Engineering",
+        "6"
+    ],
+    [
+        "ZEIT1290",
+        "Electrical Engineering Research 1A",
+        "6"
+    ],
+    [
+        "ZEIT1501",
+        "Engineering Practice and Design",
+        "6"
+    ],
+    [
+        "ZEIT1503",
+        "Engineering Mechanics",
+        "6"
+    ],
+    [
+        "ZEIT1504",
+        "Introduction to Mechanical and Aeronautical Engineering",
+        "6"
+    ],
+    [
+        "ZEIT1600",
+        "Introduction to Civil Engineering",
+        "6"
+    ],
+    [
+        "ZEIT1690",
+        "Civil Engineering Research 1A",
+        "6"
+    ],
+    [
+        "ZEIT1800",
+        "Introduction to Aviation Technology",
+        "6"
+    ],
+    [
+        "ZEIT1901",
+        "Engineering Research 1A",
+        "6"
+    ],
+    [
+        "ZEIT2102",
+        "Computer Technology",
+        "6"
+    ],
+    [
+        "ZEIT2103",
+        "Data Structures and Representation",
+        "6"
+    ],
+    [
+        "ZEIT2104",
+        "Computers and Security",
+        "6"
+    ],
+    [
+        "ZEIT2105",
+        "Systems Analysis and Design",
+        "6"
+    ],
+    [
+        "ZEIT2106",
+        "Digital Forensics",
+        "6"
+    ],
+    [
+        "ZEIT2190",
+        "Computing and Cyber Security Research 2",
+        "6"
+    ],
+    [
+        "ZEIT2207",
+        "Design of Electronic Circuits 2",
+        "6"
+    ],
+    [
+        "ZEIT2208",
+        "Programmable Digital Systems",
+        "6"
+    ],
+    [
+        "ZEIT2209",
+        "Principles of Electrical Engineering",
+        "6"
+    ],
+    [
+        "ZEIT2500",
+        "Thermofluids",
+        "6"
+    ],
+    [
+        "ZEIT2501",
+        "Mechanical and Electronic Design",
+        "6"
+    ],
+    [
+        "ZEIT2502",
+        "Fundamentals of Flight",
+        "6"
+    ],
+    [
+        "ZEIT2503",
+        "Fluid Mechanics",
+        "6"
+    ],
+    [
+        "ZEIT2504",
+        "Mechanics of Solids",
+        "6"
+    ],
+    [
+        "ZEIT2601",
+        "Soil Mechanics and Engineering Geology",
+        "6"
+    ],
+    [
+        "ZEIT2602",
+        "Hydraulic Engineering",
+        "6"
+    ],
+    [
+        "ZEIT2603",
+        "Civil Engineering Materials",
+        "6"
+    ],
+    [
+        "ZEIT2700",
+        "Mechanics of Machines",
+        "6"
+    ],
+    [
+        "ZEIT2802",
+        "Aircraft Systems for Aviators",
+        "6"
+    ],
+    [
+        "ZEIT2803",
+        "Aviation Safety",
+        "6"
+    ],
+    [
+        "ZEIT2901",
+        "Engineering Research 2A",
+        "6"
+    ],
+    [
+        "ZEIT2902",
+        "Engineering Research 2B",
+        "6"
+    ],
+    [
+        "ZEIT3101",
+        "IT Project 2",
+        "6"
+    ],
+    [
+        "ZEIT3102",
+        "Cryptography",
+        "6"
+    ],
+    [
+        "ZEIT3111",
+        "Special Topic",
+        "6"
+    ],
+    [
+        "ZEIT3112",
+        "Special Topic 2",
+        "6"
+    ],
+    [
+        "ZEIT3113",
+        "Computer Languages and Algorithms",
+        "6"
+    ],
+    [
+        "ZEIT3118",
+        "IT Project 1",
+        "6"
+    ],
+    [
+        "ZEIT3119",
+        "Web Development and Security",
+        "6"
+    ],
+    [
+        "ZEIT3120",
+        "Programming for Security",
+        "6"
+    ],
+    [
+        "ZEIT3121",
+        "Securing Networks",
+        "6"
+    ],
+    [
+        "ZEIT3190",
+        "Computing and Cyber Security Research 3A",
+        "6"
+    ],
+    [
+        "ZEIT3191",
+        "Computing and Cyber Security Research 3B",
+        "6"
+    ],
+    [
+        "ZEIT3215",
+        "Signals and Systems",
+        "6"
+    ],
+    [
+        "ZEIT3216",
+        "Design of Electronic Circuits 3",
+        "6"
+    ],
+    [
+        "ZEIT3218",
+        "Communications Techniques",
+        "6"
+    ],
+    [
+        "ZEIT3220",
+        "Engineering Electromagnetics",
+        "6"
+    ],
+    [
+        "ZEIT3221",
+        "Digital Signal Processing and Control",
+        "6"
+    ],
+    [
+        "ZEIT3222",
+        "Control Engineering",
+        "6"
+    ],
+    [
+        "ZEIT3404",
+        "Simulation",
+        "6"
+    ],
+    [
+        "ZEIT3500",
+        "Engineering Structures",
+        "6"
+    ],
+    [
+        "ZEIT3501",
+        "Engineering Materials",
+        "6"
+    ],
+    [
+        "ZEIT3502",
+        "Vibration and Control Engineering",
+        "6"
+    ],
+    [
+        "ZEIT3503",
+        "Aerodynamics",
+        "6"
+    ],
+    [
+        "ZEIT3504",
+        "Aircraft and Systems Design 1",
+        "6"
+    ],
+    [
+        "ZEIT3505",
+        "Flight Dynamics and Aircraft Control",
+        "6"
+    ],
+    [
+        "ZEIT3506",
+        "Systems Engineering / Management",
+        "6"
+    ],
+    [
+        "ZEIT3600",
+        "Structural Analysis",
+        "6"
+    ],
+    [
+        "ZEIT3601",
+        "Environmental Engineering",
+        "6"
+    ],
+    [
+        "ZEIT3602",
+        "Geotechnical Design",
+        "6"
+    ],
+    [
+        "ZEIT3603",
+        "Design of Steel and Timber Structures",
+        "6"
+    ],
+    [
+        "ZEIT3605",
+        "Design of Concrete and Pre stressed Concrete  Structures",
+        "6"
+    ],
+    [
+        "ZEIT3606",
+        "Foundation and Pavement Engineering",
+        "6"
+    ],
+    [
+        "ZEIT3607",
+        "Transportation Engineering",
+        "6"
+    ],
+    [
+        "ZEIT3700",
+        "Mechanical Design 1",
+        "6"
+    ],
+    [
+        "ZEIT3701",
+        "Heat Transfer and Refrigeration",
+        "6"
+    ],
+    [
+        "ZEIT3801",
+        "Advanced Aviation Safety",
+        "6"
+    ],
+    [
+        "ZEIT3802",
+        "Project and Practical Experience",
+        "6"
+    ],
+    [
+        "ZEIT3803",
+        "Air Traffic Management",
+        "6"
+    ],
+    [
+        "ZEIT3804",
+        "Behavioural Science Project and Practical Experience",
+        "6"
+    ],
+    [
+        "ZEIT3805",
+        "Airport Operations and Systems",
+        "6"
+    ],
+    [
+        "ZEIT3901",
+        "Engineering Research 3A",
+        "6"
+    ],
+    [
+        "ZEIT3902",
+        "Engineering Research 3B",
+        "6"
+    ],
+    [
+        "ZEIT4003",
+        "Computational Fluid Dynamics",
+        "6"
+    ],
+    [
+        "ZEIT4004",
+        "Geosynthetics and Ground Improvement",
+        "6"
+    ],
+    [
+        "ZEIT4005",
+        "Naval Architecture",
+        "6"
+    ],
+    [
+        "ZEIT4006",
+        "Structural Integrity Assessment",
+        "6"
+    ],
+    [
+        "ZEIT4007",
+        "Rotorcraft Engineering",
+        "6"
+    ],
+    [
+        "ZEIT4014",
+        "Impact Dynamics",
+        "6"
+    ],
+    [
+        "ZEIT4016",
+        "Airport Engineering",
+        "6"
+    ],
+    [
+        "ZEIT4101",
+        "Computer Science Honours Special Topic 1",
+        "12"
+    ],
+    [
+        "ZEIT4102",
+        "Computer Science Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZEIT4103",
+        "Computer Science Honours Special Topic 3",
+        "24"
+    ],
+    [
+        "ZEIT4104",
+        "Computer Science Honours Special Topic 4",
+        "6"
+    ],
+    [
+        "ZEIT4115",
+        "Computing and Cyber Security Honours Research 1",
+        "12"
+    ],
+    [
+        "ZEIT4116",
+        "Computing and Cyber Security Honours Research 2",
+        "12"
+    ],
+    [
+        "ZEIT4117",
+        "Computing and Cyber Security Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZEIT4118",
+        "Computing and Cyber Security Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZEIT4119",
+        "Computing and Cyber Security Honours Special Topic 3",
+        "6"
+    ],
+    [
+        "ZEIT4120",
+        "Computing and Cyber Security Honours Special Topic 4",
+        "6"
+    ],
+    [
+        "ZEIT4224",
+        "Electrical Power, Machines and Power Electronics",
+        "6"
+    ],
+    [
+        "ZEIT4225",
+        "Satellite Communications",
+        "6"
+    ],
+    [
+        "ZEIT4226",
+        "Digital Image Processing and Enhancement",
+        "6"
+    ],
+    [
+        "ZEIT4227",
+        "Radar Techniques and Applications",
+        "6"
+    ],
+    [
+        "ZEIT4230",
+        "Electrical Engineering Design Practice",
+        "6"
+    ],
+    [
+        "ZEIT4297",
+        "Electrical Engineering Project Extension",
+        "6"
+    ],
+    [
+        "ZEIT4500",
+        "Engineering Project A",
+        "6"
+    ],
+    [
+        "ZEIT4501",
+        "Engineering Project B",
+        "6"
+    ],
+    [
+        "ZEIT4502",
+        "Aircraft and Systems Design 2",
+        "6"
+    ],
+    [
+        "ZEIT4503",
+        "Applied Thermodynamics and Propulsion",
+        "6"
+    ],
+    [
+        "ZEIT4506",
+        "Orbital Mechanics",
+        "6"
+    ],
+    [
+        "ZEIT4507",
+        "Space Situational Awareness",
+        "6"
+    ],
+    [
+        "ZEIT4600",
+        "Civil Design Practice",
+        "6"
+    ],
+    [
+        "ZEIT4601",
+        "Civil Design Practice Extension",
+        "6"
+    ],
+    [
+        "ZEIT4603",
+        "Finite Element Methods",
+        "6"
+    ],
+    [
+        "ZEIT4604",
+        "Hydrology and Environmental Engineering Practice",
+        "6"
+    ],
+    [
+        "ZEIT4700",
+        "Mechanical Design 2",
+        "6"
+    ],
+    [
+        "ZEIT4702",
+        "Instrumentation",
+        "6"
+    ],
+    [
+        "ZEIT4703",
+        "Land Mobility and Weapons",
+        "6"
+    ],
+    [
+        "ZEIT4705",
+        "Marine Project",
+        "6"
+    ],
+    [
+        "ZEIT4801",
+        "Aviation Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZEIT4802",
+        "Aviation Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZEIT4901",
+        "Engineering Research 4A",
+        "12"
+    ],
+    [
+        "ZEIT4902",
+        "Engineering Research 4B",
+        "12"
+    ],
+    [
+        "ZEIT8001",
+        "Special Elective 1: Project Management",
+        "6"
+    ],
+    [
+        "ZEIT8007",
+        "Space Operations",
+        "6"
+    ],
+    [
+        "ZEIT8008",
+        "Space Systems Design",
+        "6"
+    ],
+    [
+        "ZEIT8009",
+        "Global Navigation Satellite Systems (GNSS)",
+        "6"
+    ],
+    [
+        "ZEIT8010",
+        "Marine Technology",
+        "6"
+    ],
+    [
+        "ZEIT8011",
+        "Space Systems Technology",
+        "6"
+    ],
+    [
+        "ZEIT8012",
+        "Space Systems Engineering Management",
+        "6"
+    ],
+    [
+        "ZEIT8016",
+        "Capability Development",
+        "6"
+    ],
+    [
+        "ZEIT8017",
+        "Cyber Crime and Cyber Security",
+        "6"
+    ],
+    [
+        "ZEIT8018",
+        "Cyber Resilience: Management Governance and Acquisition",
+        "6"
+    ],
+    [
+        "ZEIT8020",
+        "Cyber Offence: Threats and Opportunities",
+        "6"
+    ],
+    [
+        "ZEIT8021",
+        "Information Assurance and Security",
+        "6"
+    ],
+    [
+        "ZEIT8023",
+        "Wireless, Mobile and Internet of Things Security",
+        "6"
+    ],
+    [
+        "ZEIT8024",
+        "Software Security Lifecycle",
+        "6"
+    ],
+    [
+        "ZEIT8025",
+        "Reverse Engineering",
+        "6"
+    ],
+    [
+        "ZEIT8026",
+        "Cyber Defence: Network Security Operations",
+        "6"
+    ],
+    [
+        "ZEIT8027",
+        "Critical Infrastructure and Control System Security",
+        "6"
+    ],
+    [
+        "ZEIT8028",
+        "Digital Forensics",
+        "6"
+    ],
+    [
+        "ZEIT8029",
+        "Network and Memory Forensics",
+        "6"
+    ],
+    [
+        "ZEIT8030",
+        "Big Data and Decision Analytics for Security",
+        "6"
+    ],
+    [
+        "ZEIT8031",
+        "Reliability Engineering Fundamentals",
+        "6"
+    ],
+    [
+        "ZEIT8032",
+        "Information Assurance Principles",
+        "6"
+    ],
+    [
+        "ZEIT8034",
+        "Advanced Test and Evaluation Techniques",
+        "6"
+    ],
+    [
+        "ZEIT8035",
+        "Cyber Terrorism",
+        "6"
+    ],
+    [
+        "ZEIT8037",
+        "Cyber Security Risk Management",
+        "6"
+    ],
+    [
+        "ZEIT8039",
+        "Reliability Engineering Assurance",
+        "6"
+    ],
+    [
+        "ZEIT8042",
+        "Introduction to Exploit Development",
+        "6"
+    ],
+    [
+        "ZEIT8043",
+        "Cyber and the Law",
+        "6"
+    ],
+    [
+        "ZEIT8046",
+        "Computer Network Operations Project",
+        "3"
+    ],
+    [
+        "ZEIT8048",
+        "Wireless, Mobile & Internet of Things Project",
+        "3"
+    ],
+    [
+        "ZEIT8050",
+        "Network Security Operations Project",
+        "3"
+    ],
+    [
+        "ZEIT8052",
+        "Digital Forensics Project",
+        "3"
+    ],
+    [
+        "ZEIT8115",
+        "Information Operations",
+        "6"
+    ],
+    [
+        "ZEIT8119",
+        "Internetworking",
+        "6"
+    ],
+    [
+        "ZEIT8136",
+        "Software Project Management",
+        "6"
+    ],
+    [
+        "ZEIT8152",
+        "Reliability Program Management",
+        "6"
+    ],
+    [
+        "ZEIT8198",
+        "Project - Information Technology (Part-Time)",
+        "6"
+    ],
+    [
+        "ZEIT8205",
+        "Fundamentals of Surveillance Technologies",
+        "6"
+    ],
+    [
+        "ZEIT8213",
+        "Communications and Information Systems",
+        "6"
+    ],
+    [
+        "ZEIT8219",
+        "Satellite Communications",
+        "6"
+    ],
+    [
+        "ZEIT8221",
+        "Spaceborne Imaging Technology",
+        "6"
+    ],
+    [
+        "ZEIT8226",
+        "Systems Engineering Practice",
+        "6"
+    ],
+    [
+        "ZEIT8229",
+        "Non-Communications Electronic Warfare",
+        "6"
+    ],
+    [
+        "ZEIT8230",
+        "Requirements Practice",
+        "6"
+    ],
+    [
+        "ZEIT8231",
+        "Test and Evaluation",
+        "6"
+    ],
+    [
+        "ZEIT8233",
+        "Explosive Ordnance Technology",
+        "6"
+    ],
+    [
+        "ZEIT8236",
+        "System Safety Engineering",
+        "6"
+    ],
+    [
+        "ZEIT8239",
+        "Systems Engineering Project",
+        "3"
+    ],
+    [
+        "ZEIT8241",
+        "Requirements Practice Project",
+        "3"
+    ],
+    [
+        "ZEIT8243",
+        "Satellite Communications Project",
+        "3"
+    ],
+    [
+        "ZEIT8245",
+        "Systems Thinking and Modelling Project",
+        "3"
+    ],
+    [
+        "ZEIT8247",
+        "Test and Evaluation Project",
+        "3"
+    ],
+    [
+        "ZEIT8261",
+        "Project Report - Cyber Security (Full Time)",
+        "12"
+    ],
+    [
+        "ZEIT8270",
+        "Project Report - Decision Analytics Part-Time",
+        "6"
+    ],
+    [
+        "ZEIT8271",
+        "Project Report - Decision Analytics Full-Time",
+        "12"
+    ],
+    [
+        "ZEIT8280",
+        "Project - Project Management F/T",
+        "12"
+    ],
+    [
+        "ZEIT8281",
+        "Project - Project Management P/T",
+        "6"
+    ],
+    [
+        "ZEIT8296",
+        "Project Report - Systems Engineering Part Time",
+        "6"
+    ],
+    [
+        "ZEIT8297",
+        "Project Report - Systems Engineering Full Time",
+        "12"
+    ],
+    [
+        "ZEIT8298",
+        "Project Report - Engineering Science Part-Time",
+        "6"
+    ],
+    [
+        "ZEIT8302",
+        "Project Administration",
+        "6"
+    ],
+    [
+        "ZEIT8303",
+        "Project Management Body of Knowledge",
+        "6"
+    ],
+    [
+        "ZEIT8305",
+        "Systems Thinking and Modelling",
+        "6"
+    ],
+    [
+        "ZEIT8310",
+        "Project Schedule and Budget Control",
+        "6"
+    ],
+    [
+        "ZEIT8402",
+        "Evidence-based Decision Making",
+        "6"
+    ],
+    [
+        "ZEIT8403",
+        "Capability Option Analysis",
+        "6"
+    ],
+    [
+        "ZEIT8404",
+        "Decision Making Analytics",
+        "6"
+    ],
+    [
+        "ZEIT8412",
+        "Simulation",
+        "6"
+    ],
+    [
+        "ZEIT8413",
+        "Simulation Applications",
+        "6"
+    ],
+    [
+        "ZEIT8416",
+        "Research Practices for Operations Analysis",
+        "6"
+    ],
+    [
+        "ZEIT8503",
+        "Aerospace Vehicle Technologies",
+        "6"
+    ],
+    [
+        "ZEIT8506",
+        "Weapons Engineering",
+        "6"
+    ],
+    [
+        "ZEIT8704",
+        "Vehicles and Mobility",
+        "6"
+    ],
+    [
+        "ZEIT8900",
+        "Professional Practice",
+        "6"
+    ],
+    [
+        "ZEIT8001",
+        "Professional Doctorate Dissertation (Full-Time)",
+        "12"
+    ],
+    [
+        "ZEIT8007",
+        "Professional Doctorate Dissertation (Part-Time)",
+        "6"
+    ],
+    [
+        "ZEIT8008",
+        "Project Management Research Full-Time",
+        "12"
+    ],
+    [
+        "ZEIT8009",
+        "Project Management Research Part-Time",
+        "6"
+    ],
+    [
+        "ZEIT8010",
+        "Cyber Security Research (Full-time)",
+        "12"
+    ],
+    [
+        "ZEIT8011",
+        "Cyber Security Research (Part-Time)",
+        "6"
+    ],
+    [
+        "ZGEN2215",
+        "Law, Force and Legitimacy",
+        "6"
+    ],
+    [
+        "ZGEN2222",
+        "Introduction to Strategic Studies",
+        "6"
+    ],
+    [
+        "ZGEN2240",
+        "Introduction to Military Ethics",
+        "6"
+    ],
+    [
+        "ZGEN2801",
+        "Strategy, Management and Leadership",
+        "6"
+    ],
+    [
+        "ZHSS1101",
+        "English and Media Studies 1A: Culture and Communication",
+        "6"
+    ],
+    [
+        "ZHSS1102",
+        "English and Media Studies 1B: Cultures of Conflict",
+        "6"
+    ],
+    [
+        "ZHSS1201",
+        "History 1A: The Second World War 1937-1941",
+        "6"
+    ],
+    [
+        "ZHSS1202",
+        "History 1B: The Second World War 1942-1949",
+        "6"
+    ],
+    [
+        "ZHSS1301",
+        "Indonesian 1A",
+        "6"
+    ],
+    [
+        "ZHSS1302",
+        "Indonesian 1B",
+        "6"
+    ],
+    [
+        "ZHSS1303",
+        "Indonesian 1C",
+        "6"
+    ],
+    [
+        "ZHSS1304",
+        "Indonesian 1D",
+        "6"
+    ],
+    [
+        "ZHSS1401",
+        "International and Political Studies 1A: Ideals, Interests and Power",
+        "6"
+    ],
+    [
+        "ZHSS1402",
+        "International and Political Studies 1B: World Politics",
+        "6"
+    ],
+    [
+        "ZHSS2120",
+        "Heroism, Banditry and Manhood in Popular Culture",
+        "6"
+    ],
+    [
+        "ZHSS2224",
+        "The Road to Ruin? Germany 1700-1933",
+        "6"
+    ],
+    [
+        "ZHSS2229",
+        "Russian History: Medieval to Modern Times",
+        "6"
+    ],
+    [
+        "ZHSS2230",
+        "Contemporary African History",
+        "6"
+    ],
+    [
+        "ZHSS2235",
+        "Conflict in the Asia-Pacific",
+        "6"
+    ],
+    [
+        "ZHSS2301",
+        "Indonesian 2A",
+        "6"
+    ],
+    [
+        "ZHSS2302",
+        "Indonesian 2B",
+        "6"
+    ],
+    [
+        "ZHSS2303",
+        "Indonesian 2C",
+        "6"
+    ],
+    [
+        "ZHSS2304",
+        "Indonesian 2D",
+        "6"
+    ],
+    [
+        "ZHSS2423",
+        "Key Political Thinkers",
+        "6"
+    ],
+    [
+        "ZHSS2427",
+        "Politics of the Great Powers",
+        "6"
+    ],
+    [
+        "ZHSS2506",
+        "Development Policy & Social Contexts in Indonesia",
+        "6"
+    ],
+    [
+        "ZHSS2600",
+        "Practical Ethics for the 21st Century",
+        "6"
+    ],
+    [
+        "ZHSS2601",
+        "Introductory Business Ethics",
+        "6"
+    ],
+    [
+        "ZHSS2901",
+        "Humanities & Social Sciences Special Topic 1",
+        "6"
+    ],
+    [
+        "ZHSS2902",
+        "Humanities and Social Sciences Research Project 1",
+        "6"
+    ],
+    [
+        "ZHSS3121",
+        "Classic Literary Texts",
+        "6"
+    ],
+    [
+        "ZHSS3138",
+        "War Literature and Film",
+        "6"
+    ],
+    [
+        "ZHSS3139",
+        "Reading Theory",
+        "6"
+    ],
+    [
+        "ZHSS3201",
+        "Preliminary Honours History",
+        "6"
+    ],
+    [
+        "ZHSS3202",
+        "Preliminary Honours History: Methodology, Research and Writing",
+        "6"
+    ],
+    [
+        "ZHSS3212",
+        "Australian Military History 1788 to the Present",
+        "6"
+    ],
+    [
+        "ZHSS3231",
+        "First World War",
+        "6"
+    ],
+    [
+        "ZHSS3301",
+        "Indonesian 3A",
+        "6"
+    ],
+    [
+        "ZHSS3302",
+        "Indonesian 3B",
+        "6"
+    ],
+    [
+        "ZHSS3412",
+        "Politics of Australian Security",
+        "6"
+    ],
+    [
+        "ZHSS3417",
+        "Ethnic Conflict and World Politics",
+        "6"
+    ],
+    [
+        "ZHSS3425",
+        "Air Power in Small and Irregular Wars",
+        "6"
+    ],
+    [
+        "ZHSS3437",
+        "Politics of the USA",
+        "6"
+    ],
+    [
+        "ZHSS3438",
+        "The United Nations in Global Politics",
+        "6"
+    ],
+    [
+        "ZHSS3502",
+        "Civil-State-Military Relations in Indonesia",
+        "6"
+    ],
+    [
+        "ZHSS3901",
+        "Humanities & Social Sciences Research Project 2",
+        "6"
+    ],
+    [
+        "ZHSS3902",
+        "Humanities & Social Sciences Research Project 3",
+        "6"
+    ],
+    [
+        "ZHSS4001",
+        "Arts Honours Research 1",
+        "6"
+    ],
+    [
+        "ZHSS4002",
+        "Arts Honours Research 2",
+        "24"
+    ],
+    [
+        "ZHSS4003",
+        "Arts Honours Special Topic 1",
+        "9"
+    ],
+    [
+        "ZHSS4004",
+        "Arts Honours Special Topic 2",
+        "9"
+    ],
+    [
+        "ZHSS4005",
+        "History Honours Research 1",
+        "15"
+    ],
+    [
+        "ZHSS4006",
+        "History Honours Research 2",
+        "15"
+    ],
+    [
+        "ZHSS4007",
+        "Historiography Honours",
+        "9"
+    ],
+    [
+        "ZHSS4008",
+        "History Honours Special Topic",
+        "9"
+    ],
+    [
+        "ZHSS4009",
+        "International and Political Studies Honours Special Topic",
+        "9"
+    ],
+    [
+        "ZHSS4010",
+        "English and Media Studies Honours Special Topic",
+        "9"
+    ],
+    [
+        "ZHSS4011",
+        "Indonesian Studies Special Topic",
+        "9"
+    ],
+    [
+        "ZHSS4012",
+        "Arts Honours Research 3",
+        "12"
+    ],
+    [
+        "ZHSS8001",
+        "Professional Practice",
+        "6"
+    ],
+    [
+        "ZHSS8102",
+        "American Empire",
+        "6"
+    ],
+    [
+        "ZHSS8112",
+        "Occasional Elective: English",
+        "6"
+    ],
+    [
+        "ZHSS8122",
+        "Research Project - English and Media Studies Single Session",
+        "12"
+    ],
+    [
+        "ZHSS8123",
+        "Research Project - English and Media Studies Full Year",
+        "6"
+    ],
+    [
+        "ZHSS8125",
+        "Strategic Communication",
+        "6"
+    ],
+    [
+        "ZHSS8212",
+        "Research Project: History Single Session",
+        "12"
+    ],
+    [
+        "ZHSS8215",
+        "Research Project: History",
+        "6"
+    ],
+    [
+        "ZHSS8220",
+        "Fighting the Second World War",
+        "6"
+    ],
+    [
+        "ZHSS8225",
+        "Australian Military History: An Introduction",
+        "6"
+    ],
+    [
+        "ZHSS8226",
+        "The Vietnam Wars: A Thirty Year Conflict",
+        "6"
+    ],
+    [
+        "ZHSS8227",
+        "Civil Wars: Societies in Conflict",
+        "6"
+    ],
+    [
+        "ZHSS8231",
+        "The History of Special Operations",
+        "6"
+    ],
+    [
+        "ZHSS8234",
+        "Occasional Elective: History II",
+        "6"
+    ],
+    [
+        "ZHSS8235",
+        "Ten American Conflicts: The Origins of US Military History",
+        "6"
+    ],
+    [
+        "ZHSS8236",
+        "A British Way in Warfare?: Strategy and Defence Policy 1856-1945",
+        "6"
+    ],
+    [
+        "ZHSS8237",
+        "The Cold War",
+        "6"
+    ],
+    [
+        "ZHSS8400",
+        "Research Project: IPS Single Session",
+        "12"
+    ],
+    [
+        "ZHSS8401",
+        "Research Project International and Political Studies - Full Year",
+        "6"
+    ],
+    [
+        "ZHSS8403",
+        "Global Security",
+        "6"
+    ],
+    [
+        "ZHSS8409",
+        "Asia-Pacific Security: The Dynamics of Change",
+        "6"
+    ],
+    [
+        "ZHSS8417",
+        "Air Power in the 21st Century: Strategic Issues",
+        "6"
+    ],
+    [
+        "ZHSS8435",
+        "Contemporary Strategy",
+        "6"
+    ],
+    [
+        "ZHSS8441",
+        "Cyber-Security and World Politics",
+        "6"
+    ],
+    [
+        "ZHSS8452",
+        "Weapons of Mass Destruction and Global Security",
+        "6"
+    ],
+    [
+        "ZHSS8453",
+        "Culture and Conflict",
+        "6"
+    ],
+    [
+        "ZHSS8455",
+        "Australian Cyber Diplomacy",
+        "6"
+    ],
+    [
+        "ZHSS8456",
+        "Australia and Cyber War",
+        "6"
+    ],
+    [
+        "ZHSS8457",
+        "Cyber Security in Asia",
+        "6"
+    ],
+    [
+        "ZHSS8458",
+        "Cyber Policy in China",
+        "6"
+    ],
+    [
+        "ZHSS8459",
+        "Special Operations: Theory and Strategic Utility",
+        "6"
+    ],
+    [
+        "ZHSS8461",
+        "GRIM Threats (Guerrilla, Revolutionary, Insurgent and Militia) and Irregular Warfare",
+        "6"
+    ],
+    [
+        "ZHSS8462",
+        "Ethics in Special Operations and Irregular Warfare",
+        "6"
+    ],
+    [
+        "ZHSS8463",
+        "The Politics of International Law",
+        "6"
+    ],
+    [
+        "ZHSS8464",
+        "Cyberspace, National Security and Law",
+        "6"
+    ],
+    [
+        "ZHSS8467",
+        "Military Game Changers in 21st Century Warfare",
+        "6"
+    ],
+    [
+        "ZHSS8501",
+        "Principles of Public Leadership",
+        "6"
+    ],
+    [
+        "ZHSS8503",
+        "Moral Leadership in Complex Military Operations",
+        "6"
+    ],
+    [
+        "ZHSS8504",
+        "Space Conflict and Competition",
+        "6"
+    ],
+    [
+        "ZHSS8001",
+        "Public Leadership Dissertation (F/T)",
+        "12"
+    ],
+    [
+        "ZHSS8102",
+        "Public Leadership Dissertation (P/T)",
+        "6"
+    ],
+    [
+        "ZINT2100",
+        "Introduction to Cyber-Security: Policy and Operations",
+        "6"
+    ],
+    [
+        "ZINT2501",
+        "Engineering Materials and Chemistry",
+        "6"
+    ],
+    [
+        "ZINT8105",
+        "Academic Practice: Critical Reading and Writing",
+        "6"
+    ],
+    [
+        "ZINT8301",
+        "Lethality and Survivability",
+        "6"
+    ],
+    [
+        "ZINT8105",
+        "Postgraduate Research Preparation Course",
+        "0"
+    ],
+    [
+        "ZPEM1101",
+        "Chemistry 1A",
+        "6"
+    ],
+    [
+        "ZPEM1102",
+        "Chemistry 1B",
+        "6"
+    ],
+    [
+        "ZPEM1201",
+        "Geography 1A",
+        "6"
+    ],
+    [
+        "ZPEM1202",
+        "Geography 1B",
+        "6"
+    ],
+    [
+        "ZPEM1301",
+        "Mathematics 1A",
+        "6"
+    ],
+    [
+        "ZPEM1302",
+        "Mathematics 1B",
+        "6"
+    ],
+    [
+        "ZPEM1303",
+        "Engineering Mathematics 1A",
+        "6"
+    ],
+    [
+        "ZPEM1304",
+        "Engineering Mathematics 1B",
+        "6"
+    ],
+    [
+        "ZPEM1306",
+        "Introduction to Discrete Mathematics",
+        "6"
+    ],
+    [
+        "ZPEM1307",
+        "Computational Problem Solving",
+        "6"
+    ],
+    [
+        "ZPEM1501",
+        "Physics 1A: Mechanics, Waves and Thermodynamics",
+        "6"
+    ],
+    [
+        "ZPEM1502",
+        "Physics 1B: Electromagnetism and Modern Physics",
+        "6"
+    ],
+    [
+        "ZPEM1901",
+        "Contemporary Issues in Science",
+        "6"
+    ],
+    [
+        "ZPEM2102",
+        "Organic Chemistry 2",
+        "6"
+    ],
+    [
+        "ZPEM2113",
+        "Inorganic Chemistry and Spectroscopy",
+        "6"
+    ],
+    [
+        "ZPEM2114",
+        "Biological Chemistry",
+        "6"
+    ],
+    [
+        "ZPEM2202",
+        "Ecological Biogeography",
+        "6"
+    ],
+    [
+        "ZPEM2207",
+        "Social Geography",
+        "6"
+    ],
+    [
+        "ZPEM2213",
+        "The Art and Science of Doing Geography",
+        "6"
+    ],
+    [
+        "ZPEM2302",
+        "Mathematical Tools for Science",
+        "6"
+    ],
+    [
+        "ZPEM2309",
+        "Engineering Mathematics 2A",
+        "6"
+    ],
+    [
+        "ZPEM2310",
+        "Engineering Mathematics 2B",
+        "6"
+    ],
+    [
+        "ZPEM2311",
+        "Mathematical Modelling",
+        "6"
+    ],
+    [
+        "ZPEM2312",
+        "Fundamentals of Data Analysis",
+        "6"
+    ],
+    [
+        "ZPEM2313",
+        "Discrete Mathematics with Applications",
+        "6"
+    ],
+    [
+        "ZPEM2401",
+        "Australian Waters and their Dynamics",
+        "6"
+    ],
+    [
+        "ZPEM2502",
+        "Physics 2B: Electrons, Photons and Matter",
+        "6"
+    ],
+    [
+        "ZPEM2506",
+        "Physics 2A: Meteorology and Atmospheric Physics",
+        "6"
+    ],
+    [
+        "ZPEM2508",
+        "Chemical, Biological, Radiological, Nuclear, Explosives",
+        "6"
+    ],
+    [
+        "ZPEM2509",
+        "Astrophysics",
+        "6"
+    ],
+    [
+        "ZPEM2901",
+        "Research Project 1",
+        "6"
+    ],
+    [
+        "ZPEM3103",
+        "Quantum Theory and Applications in Spectroscopy",
+        "6"
+    ],
+    [
+        "ZPEM3107",
+        "Explosives",
+        "6"
+    ],
+    [
+        "ZPEM3121",
+        "Supramolecular Chemistry",
+        "6"
+    ],
+    [
+        "ZPEM3202",
+        "Cultural Geography",
+        "6"
+    ],
+    [
+        "ZPEM3204",
+        "Environmental Hazards",
+        "6"
+    ],
+    [
+        "ZPEM3208",
+        "Geographic Research Methods",
+        "6"
+    ],
+    [
+        "ZPEM3222",
+        "Coastal Geography",
+        "6"
+    ],
+    [
+        "ZPEM3301",
+        "Topics in Mathematics",
+        "6"
+    ],
+    [
+        "ZPEM3306",
+        "Waves and Fluids",
+        "6"
+    ],
+    [
+        "ZPEM3311",
+        "Mathematical Methods for Differential Equations",
+        "6"
+    ],
+    [
+        "ZPEM3401",
+        "Ocean Circulation and Mixing",
+        "6"
+    ],
+    [
+        "ZPEM3404",
+        "Ocean Waves and Modelling",
+        "6"
+    ],
+    [
+        "ZPEM3503",
+        "Advanced Materials",
+        "6"
+    ],
+    [
+        "ZPEM3528",
+        "Nuclear Physics",
+        "6"
+    ],
+    [
+        "ZPEM3532",
+        "Advanced Topics in Physics and Oceanography",
+        "6"
+    ],
+    [
+        "ZPEM3901",
+        "Research Project 2",
+        "6"
+    ],
+    [
+        "ZPEM3902",
+        "Research Project 3",
+        "6"
+    ],
+    [
+        "ZPEM4001",
+        "Science Honours Research 1",
+        "12"
+    ],
+    [
+        "ZPEM4002",
+        "Science Honours Research 2",
+        "24"
+    ],
+    [
+        "ZPEM4003",
+        "Science Honours Research 3",
+        "18"
+    ],
+    [
+        "ZPEM4004",
+        "Science Honours Research 4",
+        "6"
+    ],
+    [
+        "ZPEM4101",
+        "Chemistry Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZPEM4102",
+        "Chemistry Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZPEM4201",
+        "Geography Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZPEM4202",
+        "Geography Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZPEM4205",
+        "Human Geography Honours Special Topic",
+        "9"
+    ],
+    [
+        "ZPEM4301",
+        "Mathematics and Statistics Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZPEM4302",
+        "Mathematics and Statistics Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZPEM4401",
+        "Oceanography Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZPEM4402",
+        "Oceanography Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZPEM4501",
+        "Physics Honours Special Topic 1",
+        "6"
+    ],
+    [
+        "ZPEM4502",
+        "Physics Honours Special Topic 2",
+        "6"
+    ],
+    [
+        "ZPEM8207",
+        "Economic Geography",
+        "6"
+    ],
+    [
+        "ZPEM8208",
+        "Human Factors and the Technological Interface",
+        "6"
+    ],
+    [
+        "ZPEM8207",
+        "Oceanography Research Part-Time",
         "6"
     ],
     [

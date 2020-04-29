@@ -6,6 +6,12 @@ import re
 def get_info_subject(subject):
     url = f'http://timetable.unsw.edu.au/2020/{subject}KENS.html'
     page = requests.get(url)
+    if page.status_code == 404:
+        url = f'http://timetable.unsw.edu.au/2020/{subject}COFA.html'
+        page = requests.get(url)
+        if page.status_code == 404:
+            url = f'http://timetable.unsw.edu.au/2020/{subject}ADFA.html'
+            page = requests.get(url)
     soup = bs4.BeautifulSoup(page.text, 'html.parser')
     subjects = soup.find_all('td', class_='formBody')
     ugrad = list(filter(lambda x: x != '', subjects[3].get_text().split('\n')))[3::]
@@ -46,8 +52,7 @@ def get_info_subject(subject):
 
 with open('subjectarea.json', 'r') as f:
     subjects = json.load(f)
-
-for title, subject in subjects:
+for subject in subjects:
     get_info_subject(subject)
     print(f'Finished dumping {subject}....')
 
