@@ -1,0 +1,646 @@
+[
+    [
+        "School of Accounting",
+        "ACCT"
+    ],
+    [
+        "Actuarial Studies",
+        "ACTL"
+    ],
+    [
+        "AERO",
+        "AERO"
+    ],
+    [
+        "School of Mech & Manf. Eng",
+        "ANAT"
+    ],
+    [
+        "Anatomy",
+        "ARCH"
+    ],
+    [
+        "ARCH",
+        "ARTS"
+    ],
+    [
+        "Architectural Studies Program",
+        "ASIA"
+    ],
+    [
+        "Arts",
+        "ATSI"
+    ],
+    [
+        "ASIA",
+        "AUST"
+    ],
+    [
+        "Faculty of Arts & Soc. Science",
+        "AVEN"
+    ],
+    [
+        "Nura Gili (Indigenous Programs)",
+        "AVIA"
+    ],
+    [
+        "AUST",
+        "AVIF"
+    ],
+    [
+        "Faculty of Arts & Soc. Science",
+        "AVIG"
+    ],
+    [
+        "Aviation",
+        "BABS"
+    ],
+    [
+        "AVIA",
+        "BEES"
+    ],
+    [
+        "School of Aviation",
+        "BEIL"
+    ],
+    [
+        "Aviation",
+        "BENV"
+    ],
+    [
+        "AVIG",
+        "BINF"
+    ],
+    [
+        "School of Aviation",
+        "BIOC"
+    ],
+    [
+        "Biotechnology & Biomolecular Sciences",
+        "BIOM"
+    ],
+    [
+        "BEES",
+        "BIOS"
+    ],
+    [
+        "Sch Biol, Earth & Environ Sci",
+        "BIOT"
+    ],
+    [
+        "BE Interdisciplinary Learning",
+        "BLDG"
+    ],
+    [
+        "BENV",
+        "CDEV"
+    ],
+    [
+        "Faculty of the Built Env",
+        "CEIC"
+    ],
+    [
+        "Bioinformatics",
+        "CHEM"
+    ],
+    [
+        "BIOC",
+        "CHEN"
+    ],
+    [
+        "Sch Biotech & Biomolecular Sci",
+        "CLIM"
+    ],
+    [
+        "Biomedical Engineering",
+        "CODE"
+    ],
+    [
+        "BIOS",
+        "COMD"
+    ],
+    [
+        "Sch Biol, Earth & Environ Sci",
+        "COMM"
+    ],
+    [
+        "Biotechnology",
+        "COMP"
+    ],
+    [
+        "BLDG",
+        "CONS"
+    ],
+    [
+        "Faculty of the Built Env",
+        "CRIM"
+    ],
+    [
+        "Career Development",
+        "CRTV"
+    ],
+    [
+        "CEIC",
+        "CVEN"
+    ],
+    [
+        "School of Chemical Engineering",
+        "DATA"
+    ],
+    [
+        "Chemistry",
+        "DESN"
+    ],
+    [
+        "CHEN",
+        "DPBS"
+    ],
+    [
+        "School of Chemical Engineering",
+        "DPGE"
+    ],
+    [
+        "Climate Science",
+        "DPST"
+    ],
+    [
+        "CODE",
+        "ECON"
+    ],
+    [
+        "Faculty of the Built Env",
+        "EDST"
+    ],
+    [
+        "Comparative Development",
+        "ELEC"
+    ],
+    [
+        "COMM",
+        "ENGG"
+    ],
+    [
+        "UNSW Business School",
+        "ENGL"
+    ],
+    [
+        "Computer Science",
+        "ENVS"
+    ],
+    [
+        "CONS",
+        "EXCH"
+    ],
+    [
+        "Building Construction Mgt Prog",
+        "FINS"
+    ],
+    [
+        "Criminology",
+        "FOOD"
+    ],
+    [
+        "CRTV",
+        "GENC"
+    ],
+    [
+        "School of the Arts & Media",
+        "GENE"
+    ],
+    [
+        "Civil and Environmental Engineering",
+        "GENL"
+    ],
+    [
+        "DATA",
+        "GENM"
+    ],
+    [
+        "Sch Mathematics & Statistics",
+        "GENS"
+    ],
+    [
+        "Design Next",
+        "GENY"
+    ],
+    [
+        "DPBS",
+        "GEOL"
+    ],
+    [
+        "UNSW Global Diplomas",
+        "GEOS"
+    ],
+    [
+        "Global Diploma General Education",
+        "GMAT"
+    ],
+    [
+        "DPST",
+        "GSBE"
+    ],
+    [
+        "UNSW Global Diplomas",
+        "GSOE"
+    ],
+    [
+        "Economics",
+        "HDAT"
+    ],
+    [
+        "EDST",
+        "HESC"
+    ],
+    [
+        "School of Education",
+        "HIST"
+    ],
+    [
+        "Electrical Engineering",
+        "HUML"
+    ],
+    [
+        "ENGG",
+        "HUMS"
+    ],
+    [
+        "Faculty of Engineering",
+        "IDES"
+    ],
+    [
+        "English",
+        "IEST"
+    ],
+    [
+        "ENVS",
+        "INFS"
+    ],
+    [
+        "Sch Biol, Earth & Environ Sci",
+        "INST"
+    ],
+    [
+        "Registrar's Division",
+        "INTA"
+    ],
+    [
+        "FINS",
+        "INTD"
+    ],
+    [
+        "School of Banking & Finance",
+        "JURD"
+    ],
+    [
+        "Food Technology",
+        "LAND"
+    ],
+    [
+        "GENC",
+        "LAWS"
+    ],
+    [
+        "UNSW Business School",
+        "LING"
+    ],
+    [
+        "Engineering General Education",
+        "MANF"
+    ],
+    [
+        "GENL",
+        "MARK"
+    ],
+    [
+        "Faculty of Law",
+        "MATH"
+    ],
+    [
+        "Medicine General Education",
+        "MATS"
+    ],
+    [
+        "GENS",
+        "MBAX"
+    ],
+    [
+        "Faculty of Science",
+        "MDCN"
+    ],
+    [
+        "Student Academic and Career Success - GE",
+        "MDIA"
+    ],
+    [
+        "GEOL",
+        "MECH"
+    ],
+    [
+        "Sch Biol, Earth & Environ Sci",
+        "MFAC"
+    ],
+    [
+        "Geoscience",
+        "MFIN"
+    ],
+    [
+        "GMAT",
+        "MGMT"
+    ],
+    [
+        "School of Civil & Env Eng",
+        "MICR"
+    ],
+    [
+        "Architecture",
+        "MINE"
+    ],
+    [
+        "GSOE",
+        "MMAN"
+    ],
+    [
+        "Grad. School of Engineering",
+        "MMGT"
+    ],
+    [
+        "Health Data Science",
+        "MNGT"
+    ],
+    [
+        "HESC",
+        "MNNG"
+    ],
+    [
+        "School of Medical Sciences",
+        "MODL"
+    ],
+    [
+        "History",
+        "MSCI"
+    ],
+    [
+        "HUML",
+        "MTRN"
+    ],
+    [
+        "School Humanities & Languages",
+        "MUPS"
+    ],
+    [
+        "Arts Administration",
+        "MUSC"
+    ],
+    [
+        "IDES",
+        "NANO"
+    ],
+    [
+        "Industrial Design Program",
+        "NCHR"
+    ],
+    [
+        "Environmental Studies",
+        "NEUR"
+    ],
+    [
+        "INFS",
+        "OBST"
+    ],
+    [
+        "Sch Info Sys and Tech Mgmt",
+        "OPTM"
+    ],
+    [
+        "International Studies",
+        "PATH"
+    ],
+    [
+        "INTA",
+        "PHAR"
+    ],
+    [
+        "Interior Architecture Program",
+        "PHCM"
+    ],
+    [
+        "Interdisciplinary Studies",
+        "PHIL"
+    ],
+    [
+        "JURD",
+        "PHOP"
+    ],
+    [
+        "School of Law",
+        "PHSL"
+    ],
+    [
+        "Landscape Architecture",
+        "PHTN"
+    ],
+    [
+        "LAWS",
+        "PHYS"
+    ],
+    [
+        "Faculty of Law",
+        "PLAN"
+    ],
+    [
+        "Linguistics",
+        "PLTX"
+    ],
+    [
+        "MANF",
+        "POLS"
+    ],
+    [
+        "School of Mech & Manf. Eng",
+        "POLY"
+    ],
+    [
+        "Marketing",
+        "PPEC"
+    ],
+    [
+        "MATH",
+        "PSCY"
+    ],
+    [
+        "Sch Mathematics & Statistics",
+        "PSYC"
+    ],
+    [
+        "Materials Science and Engineering",
+        "PTRL"
+    ],
+    [
+        "MBAX",
+        "REGZ"
+    ],
+    [
+        "AGSM MBA Programs",
+        "REST"
+    ],
+    [
+        "Medicine",
+        "RISK"
+    ],
+    [
+        "MDIA",
+        "SCIF"
+    ],
+    [
+        "Faculty of Arts & Soc. Science",
+        "SENG"
+    ],
+    [
+        "Mechanical Engineering",
+        "SLSP"
+    ],
+    [
+        "MFAC",
+        "SOCA"
+    ],
+    [
+        "Faculty of Medicine",
+        "SOCF"
+    ],
+    [
+        "Master of Finance Courses",
+        "SOCW"
+    ],
+    [
+        "MGMT",
+        "SOLA"
+    ],
+    [
+        "School of Management",
+        "SOMS"
+    ],
+    [
+        "Microbiology",
+        "SOSS"
+    ],
+    [
+        "MINE",
+        "SPRC"
+    ],
+    [
+        "School of Mining Engineering",
+        "SRAP"
+    ],
+    [
+        "Mechanical & Manufacturing Engineering",
+        "STAM"
+    ],
+    [
+        "MMGT",
+        "SURG"
+    ],
+    [
+        "AGSM MBA Programs",
+        "SUSD"
+    ],
+    [
+        "Management",
+        "SWCH"
+    ],
+    [
+        "MNNG",
+        "TABL"
+    ],
+    [
+        "School of Mining Engineering",
+        "TELE"
+    ],
+    [
+        "Modern Language Studies",
+        "UDES"
+    ],
+    [
+        "MSCI",
+        "VISN"
+    ],
+    [
+        "Faculty of Science",
+        "WOMS"
+    ],
+    [
+        "Mechatronic Engineering",
+        "YENG"
+    ],
+    [
+        "MUPS",
+        "YMED"
+    ],
+    [
+        "Faculty of the Built Env",
+        "ZZBU"
+    ],
+    [
+        "Music and Music Education",
+        "ZZEN"
+    ],
+    [
+        "NANO",
+        "ZZSC"
+    ],
+    [
+        "School of Materials Sci & Eng",
+        "ADADCOFA"
+    ],
+    [
+        "HIV Social Research",
+        "DARTCOFA"
+    ],
+    [
+        "NEUR",
+        "DDESCOFA"
+    ],
+    [
+        "Faculty of Medicine",
+        "SAHTCOFA"
+    ],
+    [
+        "Obstetrics and Gynaecology - RHW",
+        "SARTCOFA"
+    ],
+    [
+        "OPTM",
+        "SDESCOFA"
+    ],
+    [
+        "Schl of Optometry & Vision Sci",
+        "SOMACOFA"
+    ],
+    [
+        "Pathology",
+        "YCANADFA"
+    ],
+    [
+        "PHAR",
+        "ZBUSADFA"
+    ],
+    [
+        "School of Medical Sciences",
+        "ZEITADFA"
+    ],
+    [
+        "Public Health and Community Medicine",
+        "ZGENADFA"
+    ],
+    [
+        "PHIL",
+        "ZHSSADFA"
+    ],
+    [
+        "School Humanities & Languages",
+        "ZINTADFA"
+    ],
+    [
+        "Public Health Offshore Programs",
+        "ZPEMADFA"
+    ]
+]
