@@ -51,15 +51,3 @@ for title, subject in subjects:
     get_info_subject(subject)
     print(f'Finished dumping {subject}....')
 
-""" for subject in subjects:
-    get_info_subject(subject[1])
-    print(f'Finished dumping {subject}...') """
-""" 
-for subject in subjects:
-
-        course = list(filter(lambda x: x != '', course))
-        code.extend(course[::3])
-        names.extend(course[1::3])
-        units.extend(course[2::3])
-    print(list(zip(code, names, units))[8::]) """
-
