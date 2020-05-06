@@ -1,21 +1,16 @@
+import json
 import requests
 from bs4 import BeautifulSoup
+import re
 
-course = input("enter course code: ")
-url = f"https://www.handbook.unsw.edu.au/undergraduate/courses/2020/{course}/"
-page = requests.get(url)
-soup = BeautifulSoup(page.text, 'html.parser')
-data = soup.find_all('p')
+with open('faculties.json', 'r') as f:
+    faculties = json.load(f)
 
-for line in data:
-    if 'Term' in str(line):
-        terms = str(line)
-    elif '':
-        pass
-    print(line)
 
-des = str(data[0])
-des = des[3:-4]
-terms = "Terms available: " + terms[25:-4]
-print(des)
-print(terms)
+
+url = 'https://www.handbook.unsw.edu.au/search?&ct=course&study_level=ugrd&multi_award=1'
+page = requests.get(url).text
+
+soup = BeautifulSoup(page, 'html.parser')
+print(soup)
+
