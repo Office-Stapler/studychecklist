@@ -1,0 +1,342 @@
+[
+    {
+        "uac_code": "424300",
+        "code": "3586",
+        "name": "Actuarial Studies"
+    },
+    {
+        "uac_code": "424620",
+        "code": "3587",
+        "name": "Actuarial Studies (Co op)"
+    },
+    {
+        "uac_code": null,
+        "code": "4520",
+        "name": "Actuarial Studies (Honours)"
+    },
+    {
+        "uac_code": "429300",
+        "code": "3956",
+        "name": "Advanced Mathematics (Honours)"
+    },
+    {
+        "uac_code": "429350",
+        "code": "3962",
+        "name": "Advanced Science (Honours)"
+    },
+    {
+        "uac_code": "423000",
+        "code": "3261",
+        "name": "Architectural Studies"
+    },
+    {
+        "uac_code": null,
+        "code": "4521",
+        "name": "Architectural Studies (Honours)"
+    },
+    {
+        "uac_code": null,
+        "code": "3264",
+        "name": "Architecture (UNSW-Tongji)"
+    },
+    {
+        "uac_code": "421400",
+        "code": "4803",
+        "name": "Art Theory"
+    },
+    {
+        "uac_code": null,
+        "code": "4516",
+        "name": "Art Theory (Honours)"
+    },
+    {
+        "uac_code": "422000",
+        "code": "3409",
+        "name": "Arts"
+    },
+    {
+        "uac_code": null,
+        "code": "4504",
+        "name": "Arts & Social Sciences (Hons)"
+    },
+    {
+        "uac_code": null,
+        "code": "4519",
+        "name": "Arts (Honours)"
+    },
+    {
+        "uac_code": "422050",
+        "code": "3444",
+        "name": "Arts and Business"
+    },
+    {
+        "uac_code": "429500",
+        "code": "3980",
+        "name": "Aviation (Flying)"
+    },
+    {
+        "uac_code": "429520",
+        "code": "3981",
+        "name": "Aviation (Management)"
+    },
+    {
+        "uac_code": "425150",
+        "code": "3736",
+        "name": "BE (Hons) ME Electrical Engineering"
+    },
+    {
+        "uac_code": "429400",
+        "code": "3053",
+        "name": "Biotechnology (Honours)"
+    },
+    {
+        "uac_code": "423600",
+        "code": "3362",
+        "name": "City Planning (Honours)"
+    },
+    {
+        "uac_code": "424000",
+        "code": "3502",
+        "name": "Commerce"
+    },
+    {
+        "uac_code": "424600",
+        "code": "3554",
+        "name": "Commerce (Co-op)"
+    },
+    {
+        "uac_code": "424601",
+        "code": "3565",
+        "name": "Commerce (Co-op) (Honours)"
+    },
+    {
+        "uac_code": null,
+        "code": "4501",
+        "name": "Commerce (Honours)"
+    },
+    {
+        "uac_code": "424050",
+        "code": "3558",
+        "name": "Commerce (International)"
+    },
+    {
+        "uac_code": "423100",
+        "code": "3268",
+        "name": "Computational Design"
+    },
+    {
+        "uac_code": null,
+        "code": "4523",
+        "name": "Computational Design (Honours)"
+    },
+    {
+        "uac_code": "425800",
+        "code": "3778",
+        "name": "Computer Science"
+    },
+    {
+        "uac_code": null,
+        "code": "4515",
+        "name": "Computer Science & Engineering (Honours)"
+    },
+    {
+        "uac_code": "423200",
+        "code": "3332",
+        "name": "Construction Management and Property"
+    },
+    {
+        "uac_code": null,
+        "code": "4522",
+        "name": "Construction Management and Property (Honours)"
+    },
+    {
+        "uac_code": "422350",
+        "code": "3422",
+        "name": "Criminology & Criminal Justice"
+    },
+    {
+        "uac_code": null,
+        "code": "4505",
+        "name": "Criminology (Honours)"
+    },
+    {
+        "uac_code": "429150",
+        "code": "3959",
+        "name": "Data Science and Decisions"
+    },
+    {
+        "uac_code": "421100",
+        "code": "4822",
+        "name": "Design"
+    },
+    {
+        "uac_code": null,
+        "code": "4527",
+        "name": "Design (Honours)"
+    },
+    {
+        "uac_code": "424400",
+        "code": "3543",
+        "name": "Economics"
+    },
+    {
+        "uac_code": null,
+        "code": "4502",
+        "name": "Economics (Honours)"
+    },
+    {
+        "uac_code": null,
+        "code": "4056",
+        "name": "Education (Secondary)"
+    },
+    {
+        "uac_code": null,
+        "code": "4509",
+        "name": "Education (Secondary) (Hons)"
+    },
+    {
+        "uac_code": "425450",
+        "code": "3635",
+        "name": "Engineering (Civil Eng w Arch) (Honours)"
+    },
+    {
+        "uac_code": "425000",
+        "code": "3707",
+        "name": "Engineering (Honours)"
+    },
+    {
+        "uac_code": "425950",
+        "code": "3768",
+        "name": "Engineering (Honours)/Biomedical Engineering"
+    },
+    {
+        "uac_code": null,
+        "code": "3706",
+        "name": "Engineering Science"
+    },
+    {
+        "uac_code": "429540",
+        "code": "3965",
+        "name": "Environmental Management"
+    },
+    {
+        "uac_code": "428100",
+        "code": "3871",
+        "name": "Exercise Physiology"
+    },
+    {
+        "uac_code": "421000",
+        "code": "4821",
+        "name": "Fine Arts"
+    },
+    {
+        "uac_code": null,
+        "code": "4526",
+        "name": "Fine Arts (Honours)"
+    },
+    {
+        "uac_code": "425600",
+        "code": "3061",
+        "name": "Food Science (Honours)"
+    },
+    {
+        "uac_code": null,
+        "code": "7016",
+        "name": "Humanities"
+    },
+    {
+        "uac_code": null,
+        "code": "7019",
+        "name": "Indigenous Preparatory Program"
+    },
+    {
+        "uac_code": "423300",
+        "code": "3387",
+        "name": "Industrial Design"
+    },
+    {
+        "uac_code": null,
+        "code": "4525",
+        "name": "Industrial Design (Honours)"
+    },
+    {
+        "uac_code": "428200",
+        "code": "3880",
+        "name": "International Public Health"
+    },
+    {
+        "uac_code": "422200",
+        "code": "3447",
+        "name": "International Studies"
+    },
+    {
+        "uac_code": null,
+        "code": "3417",
+        "name": "Language Studies"
+    },
+    {
+        "uac_code": null,
+        "code": "4701",
+        "name": "Law"
+    },
+    {
+        "uac_code": null,
+        "code": "4702",
+        "name": "Law (Honours)"
+    },
+    {
+        "uac_code": "429050",
+        "code": "3966",
+        "name": "Life Sciences"
+    },
+    {
+        "uac_code": "429600",
+        "code": "3131",
+        "name": "Materials Science and Engineering (Honours)"
+    },
+    {
+        "uac_code": "429630",
+        "code": "3133",
+        "name": "Materials Science and Engineering (Honours) / Biomedical Engineering"
+    },
+    {
+        "uac_code": null,
+        "code": "3429",
+        "name": "Media (Comm & Journalism)"
+    },
+    {
+        "uac_code": "421200",
+        "code": "4813",
+        "name": "Media Arts"
+    },
+    {
+        "uac_code": null,
+        "code": "4528",
+        "name": "Media Arts (Honours)"
+    },
+    {
+        "uac_code": "428000",
+        "code": "3805",
+        "name": "Medicine"
+    },
+    {
+        "uac_code": null,
+        "code": "3831",
+        "name": "Science (Medicine) Honours"
+    },
+    {
+        "uac_code": null,
+        "code": "3775",
+        "name": "Surveying"
+    },
+    {
+        "uac_code": "430100",
+        "code": "6115",
+        "name": "UNSW Preparation Program 17-19"
+    },
+    {
+        "uac_code": "430200",
+        "code": "6114",
+        "name": "University Preparation Program"
+    }
+]

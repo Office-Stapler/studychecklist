@@ -2,6 +2,7 @@ import bs4
 import requests
 import json
 import re
+import time
 
 def get_info_subject(subject):
     url = f'http://timetable.unsw.edu.au/2020/{subject}KENS.html'
@@ -48,11 +49,64 @@ def get_info_subject(subject):
         courses.extend(final)
         json.dump(courses, f, indent=4)
 
+def get_single_degrees(cid):
+    url = f'https://www.handbook.unsw.edu.au/api/content/query/+contentType:course%20+course.implementation_year:2020%20-course.is_multi_award:1%20+course.parent_academic_org:{cid}%20+course.study_level:undergraduate%20/orderby/course.name%20asc'
+    degrees = json.loads(requests.get(url).text)
+    degreeJSON = []
+    for degree in degrees['contentlets']:
+        #print(degree)
+        try:
+            degreeJSON.append({
+                'uac_code': degree['uac_code'],
+                'code': degree['code'],
+                'name': degree['name']
+            })
+        except:
+            degreeJSON.append({
+                'uac_code': None,
+                'code': degree['code'],
+                'name': degree['name']
+            })
+    with open('single_degrees.json', 'r') as f:
+        local_degree = json.load(f)
+    local_degree.extend(degreeJSON)
+    with open('single_degrees.json', 'w') as f:
+        json.dump(local_degree, f, indent=4)
 
+def get_double_degrees(cid):
+    url = f'https://www.handbook.unsw.edu.au/rest/multi_award/field/parent_academic_org/id/*{cid}*/year/2020/level/undergraduate/limit/200/?json'
+    degrees = json.loads(requests.get(url).text)
+    degreeJSON = []
+    for degree in degrees['contentlets']:
+        #print(degree)
+        try:
+            degreeJSON.append({
+                'uac_code': degree['uac_code'],
+                'code': degree['code'],
+                'name': degree['name']
+            })
+        except:
+            degreeJSON.append({
+                'uac_code': None,
+                'code': degree['code'],
+                'name': degree['name']
+            })
+    with open('double_degrees.json', 'r') as f:
+        local_degree = json.load(f)
+    local_degree.extend(degreeJSON)
+    with open('double_degrees.json', 'w') as f:
+        json.dump(local_degree, f, indent=4)
 
-with open('subjectarea.json', 'r') as f:
-    subjects = json.load(f)
-for subject in subjects:
-    get_info_subject(subject)
-    print(f'Finished dumping {subject}....')
+with open('double_degrees.json') as f:
+    degrees = json.load(f)
 
+degrees = sorted(degrees, key=lambda x: x['name'])
+with open('double_degrees.json', 'w') as f:
+    json.dump(degrees, f, indent=4)
+
+""" with open('../faculties.json', 'r') as f:
+    facs = json.load(f)
+for fac in facs:
+    get_double_degrees(fac['id'])
+    print(f'Finished dumping {fac["name"]}')
+    time.sleep(1) """
