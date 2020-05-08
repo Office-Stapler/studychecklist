@@ -2,44 +2,36 @@ import json
 import requests
 from bs4 import BeautifulSoup
 import re
+import time
+from multiprocessing import Pool
 
-with open('faculties.json', 'r') as f:
-    facultiesData = json.load(f)
-
-#for faculties in facultiesData:
-url = f"https://www.handbook.unsw.edu.au/{facultiesData[0]['name']}/browse?id={facultiesData[0]['id']}"
-page = requests.get(url)
-soup = BeautifulSoup(page.text, 'html.parser')
-print("")
-#print(f"        {faculties['name']}:")
-
-
-data = soup.find_all(id='singleCourseUndergraduate')
-single = BeautifulSoup(str(data), 'html.parser')
-data = single.find_all(class_="m-single-course-wrapper-browse")
-
-print("single: ")
-for course in data:
-    search = re.search('left">(.*)</span' , str(course))
+def htmlfromsite(code):
+    url = (f"https://www.handbook.unsw.edu.au/undergraduate/programs/2020/{code}?browseByFaculty={faculty}&")
+    page = requests.get(url)
+    soup = BeautifulSoup(page.text, 'html.parser')
+    data = soup.find_all(class_="o-ai-overview__h1")
+    search = re.search('module-title">(.*)</span>' , str(data))
     string = search.group(1)
-    print(string)
+    return string
 
-print("")
-data = soup.find_all(id='multiCourseUndergraduate')
-single = BeautifulSoup(str(data), 'html.parser')
-data = single.find_all(class_="a-browse-tile a-browse-tile--list regular-border-top")
+if __name__ == '__main__':
+    time_start = time.time()
+    with open('faculties.json', 'r') as f:
+        facultiesData = json.load(f)
 
-for line in data:
-    print("")
-    print("")
-    print("")
-    print(line)
+    singles = facultiesData[0]['programs']
+    doubles = facultiesData[0]['double']
+    faculty = facultiesData[0]['name']
 
-print('double:')
-for course in data:
-    print(course)
-    search = re.search('Program(.*), ' , str(course))
-    string = search.group(1)
-    print(string)
+    with Pool(10) as p:
+        singles = p.map(htmlfromsite, singles)
+
+    with Pool(10) as p:
+        doubles = p.map(htmlfromsite, doubles)
+
+    print(singles)
+    print(doubles)
+
+    print("time: "+ str(time.time()- time_start))
 
 

@@ -8,22 +8,26 @@
         {
             "code": "ACCT1511",
             "name": "Accounting and Financial Management 1B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT1501"
         },
         {
             "code": "ACCT2101",
             "name": "Industry Placement 1",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in Accounting Co-op Major (ACCTB13554)"
         },
         {
             "code": "ACCT2522",
             "name": "Management Accounting 1",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT1511"
         },
         {
             "code": "ACCT2542",
             "name": "Corporate Financial Reporting and Analysis",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT1511"
         },
         {
             "code": "ACCT2672",
@@ -33,32 +37,38 @@
         {
             "code": "ACCT3202",
             "name": "Industry Placement 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in Accounting Co-op Major (ACCTB13554)"
         },
         {
             "code": "ACCT3303",
             "name": "Industry Placement 3",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in Accounting Co-op Major (ACCTB13554)"
         },
         {
             "code": "ACCT3563",
             "name": "Issues in Financial Reporting and Analysis",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "ACCT2542"
         },
         {
             "code": "ACCT3583",
             "name": "Management Accounting 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT2522"
         },
         {
             "code": "ACCT3601",
             "name": "Global Financial Reporting and Analysis",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT2542"
         },
         {
             "code": "ACCT3610",
             "name": "Business Analysis and Valuation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT2542 and FINS1613"
         },
         {
             "code": "ACCT3625",
@@ -68,7 +78,8 @@
         {
             "code": "ACCT3708",
             "name": "Auditing and Assurance Services",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACCT2542 or approval from the School"
         },
         {
             "code": "ACCT4796",
@@ -78,7 +89,8 @@
         {
             "code": "ACCT4797",
             "name": "Thesis (Accounting) B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Must be enrolled in program 4501 (Accounting)"
         },
         {
             "code": "ACCT4798",
@@ -88,22 +100,26 @@
         {
             "code": "ACCT4809",
             "name": "Current Developments in Auditing Research",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Must be enrolled in program 4501 (Accounting)"
         },
         {
             "code": "ACCT4851",
             "name": "Current Developments in Accounting Research - Financial",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Must be enrolled in program 4501 (Accounting)"
         },
         {
             "code": "ACCT4852",
             "name": "Current Developments in Accounting Research - Managerial",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Must be enrolled in program 4501 (Accounting)"
         },
         {
             "code": "ACCT4897",
             "name": "Seminar in Research Methodology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Must be enrolled in program 4501 (Accounting)"
         },
         {
             "code": "ACCT5906",
@@ -245,22 +261,26 @@
         {
             "code": "ACTL1101",
             "name": "Introduction to Actuarial Studies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "MATH1151 AND (Enrolment in Program 3586, 3587, 3588, 3589, 3155, 3154 or 4737)"
         },
         {
             "code": "ACTL2100",
             "name": "Industrial Training 1 (Co-op)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL1001"
         },
         {
             "code": "ACTL2101",
             "name": "Industry Placement 1",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": "Enrolment in Program 3587"
         },
         {
             "code": "ACTL2102",
             "name": "Foundations of Actuarial Models",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "ACTL2131 or MATH2901 and (enrolment in 3154, 3155, 3586, 3587, 3588, 3589 or 4737)"
         },
         {
             "code": "ACTL2111",
@@ -270,12 +290,14 @@
         {
             "code": "ACTL2131",
             "name": "Probability and Mathematical Statistics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL1101 AND (MATH1251 or MATH1241 )"
         },
         {
             "code": "ACTL3141",
             "name": "Actuarial Models and Statistics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " (ACTL2131 or MATH2901) and ACTL2102"
         },
         {
             "code": "ACTL3142",
@@ -285,7 +307,8 @@
         {
             "code": "ACTL3151",
             "name": "Life Contingencies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL2111 and ACTL2102"
         },
         {
             "code": "ACTL3162",
@@ -295,7 +318,8 @@
         {
             "code": "ACTL3182",
             "name": "Asset-Liability and Derivative Models",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL2111 and ACTL2102"
         },
         {
             "code": "ACTL3191",
@@ -310,12 +334,14 @@
         {
             "code": "ACTL3202",
             "name": "Industry Placement 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL2101 and enrolment in program 3587"
         },
         {
             "code": "ACTL3303",
             "name": "Industry Placement 3",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ACTL3202 and enrolment in program 3587"
         },
         {
             "code": "ACTL4001",
@@ -559,32 +585,38 @@
         {
             "code": "AERO3110",
             "name": "Aerospace Design 1",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " MMAN2100 AND (ENGG2400 OR MMAN2400)"
         },
         {
             "code": "AERO3410",
             "name": "Aerospace Structures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ENGG2400 OR MMAN2400 OR CVEN2301"
         },
         {
             "code": "AERO3630",
             "name": "Aerodynamics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " MMAN2600 or ENGG2500"
         },
         {
             "code": "AERO3660",
             "name": "Flight Performance and Propulsion",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " (MMAN1300 or ENGG1300 or DPST1072 or CVEN1300 ) AND (MMAN2600 or ENGG2500) AND MMAN2700"
         },
         {
             "code": "AERO4110",
             "name": "Aerospace Design 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AERO3110"
         },
         {
             "code": "AERO4620",
             "name": "Dynamics of Aerospace Vehicles, Systems and Avionics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AERO3660 and MMAN3200"
         },
         {
             "code": "AERO9500",
@@ -636,17 +668,20 @@
         {
             "code": "ANAT2111",
             "name": "Introductory Anatomy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " A pass in BABS1201 or DPST1051 plus either a pass in ANAT2241 or BABS1202 or DPST1052 or BABS2202 or BABS2204 or BIOC2201 or BIOC2291 or BIOS1101 or HESC1501 or PHSL2101 or PHSL2121 or VISN1221"
         },
         {
             "code": "ANAT2241",
             "name": "Histology: Basic and Systematic",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051, Minimum Program WAM 55"
         },
         {
             "code": "ANAT2341",
             "name": "Embryology: Early and Systematic Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ANAT2241 or BABS2202"
         },
         {
             "code": "ANAT2451",
@@ -666,22 +701,26 @@
         {
             "code": "ANAT3121",
             "name": "Visceral Anatomy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ANAT2111 or ANAT1521 or ANAT2511"
         },
         {
             "code": "ANAT3131",
             "name": "Functional Anatomy of the Head, Neck and Back",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ANAT2111 or ANAT1521 or ANAT2511"
         },
         {
             "code": "ANAT3141",
             "name": "Functional Anatomy of the Limbs",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ANAT2111 or ANAT1521 or ANAT2511"
         },
         {
             "code": "ANAT3411",
             "name": "Neuroanatomy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ANAT1521 or a minimum mark of 55 in ANAT2111 or  ANAT2511"
         }
     ],
     "ARCH": [
@@ -703,7 +742,8 @@
         {
             "code": "ARCH1102",
             "name": "Architectural Design Studio 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARCH1101"
         },
         {
             "code": "ARCH1161",
@@ -733,22 +773,26 @@
         {
             "code": "ARCH1261",
             "name": "Construction and Structures 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARCH1162"
         },
         {
             "code": "ARCH1302",
             "name": "Architectural Design Studio 6",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " ARCH1202, ARCH1311"
         },
         {
             "code": "ARCH1311",
             "name": "Architectural Design Studio 5",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "  ARCH1202"
         },
         {
             "code": "ARCH1322",
             "name": "Architectural History and Theory 3",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "ARCH1331",
@@ -758,7 +802,8 @@
         {
             "code": "ARCH1361",
             "name": "Architectural Science and Building Environment 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARCH1161."
         },
         {
             "code": "ARCH1481",
@@ -1025,7 +1070,8 @@
         {
             "code": "ARTS1451",
             "name": "Introductory Chinese B for Non-Background Students",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1450 or language placement approval"
         },
         {
             "code": "ARTS1452",
@@ -1035,7 +1081,8 @@
         {
             "code": "ARTS1453",
             "name": "Introductory Chinese for Background Speakers B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1452 or language placement approval"
         },
         {
             "code": "ARTS1480",
@@ -1045,7 +1092,8 @@
         {
             "code": "ARTS1481",
             "name": "Introductory French B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1480  or language placement approval"
         },
         {
             "code": "ARTS1510",
@@ -1055,7 +1103,8 @@
         {
             "code": "ARTS1511",
             "name": "Introductory German B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1510 or language placement approval"
         },
         {
             "code": "ARTS1540",
@@ -1065,7 +1114,8 @@
         {
             "code": "ARTS1541",
             "name": "Introductory Greek B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1540 or language placement approval"
         },
         {
             "code": "ARTS1570",
@@ -1075,12 +1125,14 @@
         {
             "code": "ARTS1571",
             "name": "Introductory Spanish B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1570 or language placement approval"
         },
         {
             "code": "ARTS1621",
             "name": "Introductory Italian B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1620 or language placement approval"
         },
         {
             "code": "ARTS1630",
@@ -1090,7 +1142,8 @@
         {
             "code": "ARTS1631",
             "name": "Introductory Japanese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1630 or language placement approval"
         },
         {
             "code": "ARTS1660",
@@ -1100,7 +1153,8 @@
         {
             "code": "ARTS1661",
             "name": "Introductory Korean B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1660 or language placement approval"
         },
         {
             "code": "ARTS1690",
@@ -1160,152 +1214,182 @@
         {
             "code": "ARTS2020",
             "name": "Creative Writing",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at level 1. Equivalent: ARTS2032"
         },
         {
             "code": "ARTS2021",
             "name": "Creative Writing Project",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2031",
             "name": "Australian Literature",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2033",
             "name": "Poetry and Poetics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2034",
             "name": "Shakespearean Drama",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2035",
             "name": "American Literature: Past and Present",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2036",
             "name": "Modernism: Text and Screen",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2040",
             "name": "Global Literatures: Adventures with the \"Contemporary Classic\"",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2041",
             "name": "What is Reading?",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2050",
             "name": "Academic Writing for the Humanities",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 12uoc at Level 1, and enrolment in an Arts and Social Sciences or Art and Design single or dual award program. Excluded: ARTS5503"
         },
         {
             "code": "ARTS2061",
             "name": "Contemporary Approaches to Cinema",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2062",
             "name": "Australian Cinema",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2063",
             "name": "National Cinemas",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2064",
             "name": "A Case Study of Film Genre",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2065",
             "name": "Screen Production II",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1 including ARTS1060 or ARTS1062 or ARTS1063 or ARTS1064"
         },
         {
             "code": "ARTS2066",
             "name": "Writing for the Screen",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2091",
             "name": "Mobile Cultures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2092",
             "name": "Global Media: Markets, Flows and Cultures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2093",
             "name": "Social Media",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2094",
             "name": "Visual Communication",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2095",
             "name": "Digital Technologies and the Self",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2096",
             "name": "Media Rights, Media Wrongs",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2120",
             "name": "Writing for Performance",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2121",
             "name": "Theatre in Our Times",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2122",
             "name": "Performance Production",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2123",
             "name": "Musicals, Dance and Popular Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2125",
             "name": "Acting and Performing",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2126",
             "name": "Reviewing the Arts",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2127",
             "name": "Great Plays",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2128",
             "name": "Art and Social Change",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2129",
@@ -1315,52 +1399,62 @@
         {
             "code": "ARTS2150",
             "name": "The Making of Trump's America",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2210",
             "name": "Modern India: Violence and Nonviolence in Colonial South Asia, 1750-1947",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2211",
             "name": "East Asia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2212",
             "name": "Southeast Asia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2213",
             "name": "Asian Popular Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2240",
             "name": "Environment, Sustainability and Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2242",
             "name": "The Politics of Climate Change",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2243",
             "name": "Waste and Society",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2244",
             "name": "Rethinking Wildlife: Philosophy, Biodiversity, Extinction",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2248",
             "name": "Disasters and Society",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2249",
@@ -1370,352 +1464,422 @@
         {
             "code": "ARTS2271",
             "name": "Inventing Modern Australia: 1900 to Now",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2272",
             "name": "The European World, 1500-1800",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2281",
             "name": "Ancient Egypt and Western Asia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2282",
             "name": "Rome",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2283",
             "name": "Classical Greece",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2285",
             "name": "The Holocaust: Origins, Implementation, Aftermath",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2360",
             "name": "Knowledge and Reality",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2361",
             "name": "Philosophy of Mind and Psychology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2362",
             "name": "Alienation and Social Critique",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2363",
             "name": "Chinese Philosophy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2374",
             "name": "Ways of Reasoning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1. Excluded: ARTS2366"
         },
         {
             "code": "ARTS2375",
             "name": "Philosophical Logic",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1. Excluded: ARTS2366"
         },
         {
             "code": "ARTS2383",
             "name": "Ethics: Theory and Practice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2384",
             "name": "Political Philosophy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2450",
             "name": "Intermediate Chinese for Non-Background Speakers A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1451 or language placement approval"
         },
         {
             "code": "ARTS2451",
             "name": "Intermediate Chinese for Non-Background Speakers B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2450 or language placement approval"
         },
         {
             "code": "ARTS2452",
             "name": "Chinese English Translation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3451 or ARTS3452 or ARTS3453 or ARTS3454 or language placement approval"
         },
         {
             "code": "ARTS2453",
             "name": "Chinese Cinema",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2455",
             "name": "Gender in China",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2457",
             "name": "China Imagined and Perceived",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2458",
             "name": "Along the Silk Road: Conquerors, Traders and Explorers",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2461",
             "name": "Intermediate Chinese for Background Speakers A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1453 or language placement approval"
         },
         {
             "code": "ARTS2462",
             "name": "Intermediate Chinese for Background Speakers B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2461 or language placement approval"
         },
         {
             "code": "ARTS2464",
             "name": "Chinese Ideas of Beauty and Erotica: Ancient to Modern",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2480",
             "name": "Intermediate French A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1481 or language placement approval"
         },
         {
             "code": "ARTS2481",
             "name": "Intermediate French B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2480 or language placement approval"
         },
         {
             "code": "ARTS2482",
             "name": "French Cinema and Society",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2485",
             "name": "Exploring French Linguistics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2510",
             "name": "Intermediate German A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1511 or language placement approval"
         },
         {
             "code": "ARTS2511",
             "name": "Intermediate German B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2510 or language placement approval"
         },
         {
             "code": "ARTS2542",
             "name": "Gods, Heroines and Heroes in Greek Myth",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2570",
             "name": "Intermediate Spanish A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1571 or language placement approval"
         },
         {
             "code": "ARTS2571",
             "name": "Intermediate Spanish B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2570 or language placement approval"
         },
         {
             "code": "ARTS2630",
             "name": "Intermediate Japanese A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1631 or language placement approval"
         },
         {
             "code": "ARTS2631",
             "name": "Intermediate Japanese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2630 or language placement approval"
         },
         {
             "code": "ARTS2660",
             "name": "Intermediate Korean A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS1661 or language placement approval"
         },
         {
             "code": "ARTS2661",
             "name": "Intermediate Korean B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2660 or language placement approval"
         },
         {
             "code": "ARTS2663",
             "name": "Korea and Japan: Chinese Cultural Transmission",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2690",
             "name": "Semantics and Pragmatics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2692",
             "name": "Syntax",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2693",
             "name": "Psycholinguistics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2694",
             "name": "Phonology: Theory and Description",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2696",
             "name": "The Grammar of English",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2698",
             "name": "Intercultural Interaction",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2751",
             "name": "International Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2754",
             "name": "Research for Impact in Global Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2755",
             "name": "Global Development in Practice: Concepts and Practices for Inclusive Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2785",
             "name": "Europe's Age of Catastrophe, 1914-1945",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2813",
             "name": "International Security",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2815",
             "name": "Politics and Security in the Indo-Pacific",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2816",
             "name": "Who Gets What? The Global Politics of Inequality",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2817",
             "name": "Diplomacy and Statecraft: Past, Present, Futures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2818",
             "name": "Australian Politics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1, including ARTS1810. Excluded: ARTS1840"
         },
         {
             "code": "ARTS2819",
             "name": "Globalisation and Governance",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2820",
             "name": "Justice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2821",
             "name": "Colonialism: Resistance, Justice, and Transition",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2845",
             "name": "Sex, Human Rights and Justice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2852",
             "name": "Qualitative Research for Political and Social Problems",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at level 1, and enrolment in a Politics, Philosophy, and Economics program or a Politics and IR major or a Development Studies major"
         },
         {
             "code": "ARTS2870",
             "name": "Citizens, Action and Dissent",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2871",
             "name": "Power and Powerlessness",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2872",
             "name": "Living and dying",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2874",
             "name": "Culture and Emotion",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2876",
             "name": "Understanding the Self",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2877",
             "name": "Technologies, Culture, Society",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2900",
             "name": "Global Feminisms: Competing Visions, Varying Histories",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2904",
             "name": "Dressed to Kill: Dress and Identity in History",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2906",
             "name": "History of Sexuality",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2908",
             "name": "Premodern Japan: Status, Sex and Power",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS2909",
             "name": "Gender in Southeast Asia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30 units of credit at Level 1; or 24 units of credit and enrolment in a Women's &amp; Gender Studies minor in Arts/Law (4782)"
         },
         {
             "code": "ARTS3013",
             "name": "Performing Arts Industry Experience",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in the following declared streams, Music or TPS. Or 96 UOC overall and enrolment in a Music single/dual degree. Students must have a WAM of at least 65."
         },
         {
             "code": "ARTS3022",
@@ -1735,122 +1899,146 @@
         {
             "code": "ARTS3039",
             "name": "Jane Austen in Context",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English"
         },
         {
             "code": "ARTS3040",
             "name": "Postcolonial Literatures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English"
         },
         {
             "code": "ARTS3047",
             "name": "Contemporary Critical and Cultural Theory",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English"
         },
         {
             "code": "ARTS3049",
             "name": "Literary Animals, Monsters and Machines",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English or Media, Culture &amp; Technology"
         },
         {
             "code": "ARTS3054",
             "name": "The Getting of Wisdom: Youth, Literature and the Formation of the Self",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, English"
         },
         {
             "code": "ARTS3055",
             "name": "Literature and Power",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at Level 1 and 6 UOC at Level 2 in one of the following specialisations, English"
         },
         {
             "code": "ARTS3060",
             "name": "Film in the Media Landscape",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies or MCT; or ARTS1060/ARTS1090, at least 6uoc in level 2  Film Studies electives and enrolment in a Media single or double degree"
         },
         {
             "code": "ARTS3061",
             "name": "Screen Production III (Video Project)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including ARTS1060 or ARTS1064, and ARTS2065. Or 66 UOC overall and enrolled in a single or double degree Media (Screen and Sound Production) program"
         },
         {
             "code": "ARTS3062",
             "name": "Aspects of Film History: Cinematic Thinking",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies"
         },
         {
             "code": "ARTS3064",
             "name": "Issues in Film Styles and Aesthetics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies or MCT"
         },
         {
             "code": "ARTS3065",
             "name": "Screen Emotions: Affect and Cinema",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies"
         },
         {
             "code": "ARTS3066",
             "name": "Documentary and Non Fiction Cinemas",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies or MCT"
         },
         {
             "code": "ARTS3068",
             "name": "Doing Film Festivals",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Film Studies"
         },
         {
             "code": "ARTS3090",
             "name": "Media, Culture and Technology Capstone: Media Cultures",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 uoc at Level 1 and 6 uoc at Level 2 in Media, Culture and Technology"
         },
         {
             "code": "ARTS3091",
             "name": "Advanced Media Issues",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following streams, MCT. Or 6 uoc  level 1 and 6 uoc level 2 Prescribed Media Electives and enrolment in a Media single or double degreel program"
         },
         {
             "code": "ARTS3092",
             "name": "Media and Transformation in the Asia-Pacific",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following streams, MCT. Or 6 uoc  level 1 and 6 uoc level 2 Prescribed Media Electives and enrolment in a Media single or double degreel program"
         },
         {
             "code": "ARTS3093",
             "name": "Media Power",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following streams, MCT. Or 6 uoc  level 1 and 6 uoc level 2 Prescribed Media Electives and enrolment in a Media single or double degreel program"
         },
         {
             "code": "ARTS3096",
             "name": "Media and Climate Change",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following streams, MCT. Or 6 uoc  level 1 and 6 uoc level 2 Prescribed Media Electives and enrolment in a Media single or double degreel program"
         },
         {
             "code": "ARTS3097",
             "name": "Current Debates in Media and Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following streams, MCT. Or 6 uoc  level 1 and 6 uoc level 2 Prescribed Media Electives and enrolment in a Media single or double degreel program"
         },
         {
             "code": "ARTS3122",
             "name": "Working in the Performing Arts",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in the Theatre &amp; Performance Studies Stream"
         },
         {
             "code": "ARTS3123",
             "name": "Solo Performance Making",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Dance Studies or Theatre &amp; Performance Studies"
         },
         {
             "code": "ARTS3124",
             "name": "Collaborative Performance Making",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Theatre &amp; Performance Studies"
         },
         {
             "code": "ARTS3125",
             "name": "Experiments in Performance and Media",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 uoc overall, including 6 uoc at level 1 and 6 uoc at level 2 in one of the following specialisations, MCT or\u00a0Theatre &amp; Performance Studies. Or 66 uoc overall and enrolled in a single or dual award Media (S&amp;SP) program"
         },
         {
             "code": "ARTS3131",
             "name": "Australian Drama",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams,  Australian Studies or Theatre &amp; Performance Studies. Excluded: ARTS2124"
         },
         {
             "code": "ARTS3132",
@@ -1860,12 +2048,14 @@
         {
             "code": "ARTS3212",
             "name": "Contemporary India Through Bollywood: Politics, Society and Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies, Development Studies, Global Development or History"
         },
         {
             "code": "ARTS3216",
             "name": "Chinese Media and Communication",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in Asian Studies. Or 48 UOC including 12 UOC in Chinese Studies language courses. Or 48 UOC and enrolment in an International Studies single or double degree (2017 onwards)"
         },
         {
             "code": "ARTS3218",
@@ -1875,117 +2065,140 @@
         {
             "code": "ARTS3240",
             "name": "Environmental Humanities Capstone",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 uoc overall and enrolment in an Environmental Humanities major or minor"
         },
         {
             "code": "ARTS3241",
             "name": "Environmental Justice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Global Development or Environmental Humanities. Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)"
         },
         {
             "code": "ARTS3242",
             "name": "Environmental History",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Environmental Humanities or History. Or 48 UOC overall and enrolment in an International Studies single or dual program (2017 onwards)"
         },
         {
             "code": "ARTS3243",
             "name": "Remaking Nature: The Politics of Biotechnology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Environmental Humanities"
         },
         {
             "code": "ARTS3270",
             "name": "Reflecting on Histories and Historians: Capstone",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72uoc overall, including ARTS1270 and enrolment in a History major or minor"
         },
         {
             "code": "ARTS3283",
             "name": "Roman Emperors: From Augustus to Nero",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History"
         },
         {
             "code": "ARTS3289",
             "name": "Documentary Film and History",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, History"
         },
         {
             "code": "ARTS3292",
             "name": "Migrants and Refugees in Australian History",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies or History. Or 48 UOC and enrolment in an International Studies single or dual program (2017 onwards)"
         },
         {
             "code": "ARTS3295",
             "name": "Understanding Nazi Germany: Origins, Structures, Explanation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, European Studies or History; or 48 UOC overall, including 12 UOC in German Studies language courses"
         },
         {
             "code": "ARTS3330",
             "name": "Languages Capstone: Translation and Interpreting",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit overall, and enrolment in a language major stream - Chinese Studies, French Studies, German Studies, Japanese Studies, Korean Studies, or Spanish and Latin American Studies"
         },
         {
             "code": "ARTS3360",
             "name": "Philosophy Capstone: Examining Pivotal Texts",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit overall and enrolment in a Philosophy major or minor"
         },
         {
             "code": "ARTS3366",
             "name": "Contemporary Debates in Moral and Political Philosophy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Philosophy"
         },
         {
             "code": "ARTS3368",
             "name": "Modern European Philosophy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Philosophy"
         },
         {
             "code": "ARTS3373",
             "name": "Topics in Metaphysics, Epistemology, and Philosophy of Language",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Philosophy"
         },
         {
             "code": "ARTS3450",
             "name": "Advanced Chinese A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2451 or ARTS2462 or language placement approval"
         },
         {
             "code": "ARTS3451",
             "name": "Advanced Chinese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3450 or language placement approval"
         },
         {
             "code": "ARTS3452",
             "name": "Professional Chinese A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3451 or language placement approval"
         },
         {
             "code": "ARTS3453",
             "name": "Professional Chinese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3452 or language placement approval"
         },
         {
             "code": "ARTS3454",
             "name": "Chinese English Interpreting",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or\u00a0language placement approval"
         },
         {
             "code": "ARTS3455",
             "name": "Contemporary Chinese Literature",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or ARTS3454 or language placement approval"
         },
         {
             "code": "ARTS3456",
             "name": "Classical Chinese Literature",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or ARTS3454 or\u00a0language placement approval"
         },
         {
             "code": "ARTS3458",
             "name": "Chinese Capstone: Re-Visioning China and Chinese Studies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72uoc overall, including ARTS3453, ARTS2452, or ARTS3454  and enrolment in an Advanced Chinese Studies major/minor; or 72uoc overall, including ARTS2451 or ARTS2462 and enrolment in a Chinese Studies major/minor"
         },
         {
             "code": "ARTS3462",
             "name": "Artistic Representations of China and the Diaspora",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2452 or ARTS3451 or ARTS3452 or ARTS3453 or ARTS3454 or ARTS3463 or language placement approval"
         },
         {
             "code": "ARTS3480",
@@ -1995,222 +2208,266 @@
         {
             "code": "ARTS3481",
             "name": "Advanced French B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3480 or language placement approval"
         },
         {
             "code": "ARTS3482",
             "name": "Professional French A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3481 or language placement approval"
         },
         {
             "code": "ARTS3483",
             "name": "Professional French B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3482 or language placement approval"
         },
         {
             "code": "ARTS3488",
             "name": "French Discourse Studies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3481 or ARTS3482 or ARTS3483 or language placement approval"
         },
         {
             "code": "ARTS3510",
             "name": "Advanced German A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2511 or language placement approval"
         },
         {
             "code": "ARTS3570",
             "name": "Advanced Spanish A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2571 or language placement approval"
         },
         {
             "code": "ARTS3571",
             "name": "Advanced Spanish B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3570  or language placement approval"
         },
         {
             "code": "ARTS3574",
             "name": "Topics in Latin American Cinema",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS3575",
             "name": "Spanish Popular Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS3630",
             "name": "Advanced Japanese A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2631 or language placement approval"
         },
         {
             "code": "ARTS3631",
             "name": "Advanced Japanese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3630 or language placement approval"
         },
         {
             "code": "ARTS3632",
             "name": "Professional Japanese A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3631 or language placement approval"
         },
         {
             "code": "ARTS3633",
             "name": "Professional Japanese B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3632 or language placement approval"
         },
         {
             "code": "ARTS3636",
             "name": "Contextualising Japanese: Capstone",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72uoc overall, including ARTS3633 and enrolment in an Advanced Japanese Studies major/minor; or 72uoc overall, including ARTS2631 and enrolment in a Japanese Studies major/minor"
         },
         {
             "code": "ARTS3639",
             "name": "Japan in Popular Culture",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS3640",
             "name": "Japan and Korea: Cultures in Conflict",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 24 units of credit at Level 1"
         },
         {
             "code": "ARTS3641",
             "name": "Commercial Japanese",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3631 or ARTS3632 or ARTS3633 or language placement approval"
         },
         {
             "code": "ARTS3643",
             "name": "Advanced Writing in Japanese",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3631 or ARTS3632 or ARTS3633 or language placement approval"
         },
         {
             "code": "ARTS3660",
             "name": "Advanced Korean A",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS2661 or language placement approval"
         },
         {
             "code": "ARTS3661",
             "name": "Advanced Korean B",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3660 or language placement approval"
         },
         {
             "code": "ARTS3663",
             "name": "Professional Korean",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3661 or ARTS3662 or ARTS3664 or ARTS3665"
         },
         {
             "code": "ARTS3665",
             "name": "Korean Interpreting",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3661, ARTS3662, ARTS3663, ARTS3664, or langauage placement approval"
         },
         {
             "code": "ARTS3690",
             "name": "Language Universals and Linguistic Typology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Linguistics"
         },
         {
             "code": "ARTS3695",
             "name": "Multilingualism and Language Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Linguistics"
         },
         {
             "code": "ARTS3750",
             "name": "Development, Community and Environment",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies, Global Development"
         },
         {
             "code": "ARTS3751",
             "name": "Development Studies: Research, Practice and Ethics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit overall, and enrolment in a Global Development major or Development Studies major"
         },
         {
             "code": "ARTS3755",
             "name": "Development in Practice: Project Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies, Global Development"
         },
         {
             "code": "ARTS3758",
             "name": "Global Change Internship",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " ARTS3759 and enrolment with consent"
         },
         {
             "code": "ARTS3759",
             "name": "Preparing for and Reflecting on International Internships",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment with consent. ARTS3759 is open to UNSW undergraduate students that are also enrolled in an internship (or international field placement course). This needs to be demonstrated prior to enrolment."
         },
         {
             "code": "ARTS3780",
             "name": "Contemporary Germany: History, Politics, Society",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC including 6 UOC at level 1 and 6 UOC at level 2 in European Studies or History. Or 48 UOC including 12 UOC in German Studies language courses. Or 48 UOC and enrolment in an International Studies single or double degree (2017 onwards)"
         },
         {
             "code": "ARTS3783",
             "name": "Great, Emerging and Declining Powers in the Contemporary World",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Politics and International Relations"
         },
         {
             "code": "ARTS3786",
             "name": "Confronting the Past in Contemporary Europe",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, European Studies or History; or 48 UOC overall, including 12 UOC in German Studies language courses"
         },
         {
             "code": "ARTS3810",
             "name": "Politics & International Relations: Theory and Practice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit overall, and  enrolment in an International Relations, Politics, or Politics &amp; International Relations major"
         },
         {
             "code": "ARTS3812",
             "name": "Manias, Panics and Crashes: Global Political Economy in an Era of Crisis",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Development Studies, International Relations, Politics, or Politics and International Relations"
         },
         {
             "code": "ARTS3814",
             "name": "Australian Foreign Policy",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies, International Relations, Politics, or Politics and International Relations"
         },
         {
             "code": "ARTS3819",
             "name": "Emerging Challenges in International Security",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Politics and International Relations"
         },
         {
             "code": "ARTS3820",
             "name": "How to start a revolution: activism, social movements and political change",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Politics and International Relations"
         },
         {
             "code": "ARTS3821",
             "name": "The Politics of Identity in the 21st Century",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Politics and International Relations"
         },
         {
             "code": "ARTS3822",
             "name": "The Art of Political Science",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Politics and International Relations"
         },
         {
             "code": "ARTS3870",
             "name": "Debates and Controversies in Sociology and Anthropology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit overall, and enrolment in a Sociology &amp; Anthropology major or extended minor"
         },
         {
             "code": "ARTS3872",
             "name": "Media Publics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Media, Culture &amp; Technology or Sociology &amp; Anthropology"
         },
         {
             "code": "ARTS3874",
             "name": "Culture and Human Rights",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following specialisations, Australian Studies, Development Studies, Global Development, or Sociology &amp; Anthropology"
         },
         {
             "code": "ARTS3875",
             "name": "Decolonising Research Methods",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Australian Studies, Development Studies, or Sociology &amp; Anthropology"
         },
         {
             "code": "ARTS3883",
             "name": "Personhood in Asia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48 UOC overall, including 6 UOC at level 1 and 6 UOC at level 2 in one of the following streams, Asian Studies or Sociology &amp; Anthropology"
         },
         {
             "code": "ARTS3885",
@@ -2220,387 +2477,464 @@
         {
             "code": "ARTS3886",
             "name": "Living Social Justice: Experience and Practice",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 48UOC overall, including 6UOC lv1 and 6UOC lv2 in one of the following streams, Criminology/S&amp;A or enrolment in program 3422/4763 and 12UOC lv2 SRAP and 18UOC lv2 CRIM; or enrolment in Program 4034 and 30UOC at lv2 including 12UOC lv2 CRIM"
         },
         {
             "code": "ARTS3991",
             "name": "Arts and Social Sciences Capstone",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 uoc overall, and enrolment in an Arts &amp; Social Sciences major in an Arts &amp; Social Sciences single or double degree program. Consent required"
         },
         {
             "code": "ARTS4100",
             "name": "Research Methods and Thesis Writing",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in a School of the Arts and Media honours program"
         },
         {
             "code": "ARTS4202",
             "name": "Uses of Theory: Honours (Research)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in a School of the Arts and Media honours program"
         },
         {
             "code": "ARTS4247",
             "name": "Research Skills in the Humanities",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in a School of Humanities and Languages honours program"
         },
         {
             "code": "ARTS4249",
             "name": "The Humanities, then and now",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in a School of Humanities and Languages honours program"
         },
         {
             "code": "ARTS4266",
             "name": "Puzzles, Planning, and Presentation for Honours in the Social Sciences",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in  a School of Social Sciences, Asian Studies or European Studies honours program"
         },
         {
             "code": "ARTS4268",
             "name": "Methodologies in the Social Sciences: Questions and Quandaries",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in  a School of Social Sciences, Asian Studies or European Studies honours program"
         },
         {
             "code": "ARTS4600",
             "name": "Dance Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Dance Studies honours program"
         },
         {
             "code": "ARTS4601",
             "name": "Dance Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Dance Studies honours program"
         },
         {
             "code": "ARTS4602",
             "name": "Dance Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Dance Studies honours program"
         },
         {
             "code": "ARTS4604",
             "name": "English Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the English honours program"
         },
         {
             "code": "ARTS4605",
             "name": "English Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the English honours program"
         },
         {
             "code": "ARTS4606",
             "name": "English Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the English honours program"
         },
         {
             "code": "ARTS4608",
             "name": "Film Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Film Studies honours program"
         },
         {
             "code": "ARTS4609",
             "name": "Film Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Film Studies honours program"
         },
         {
             "code": "ARTS4610",
             "name": "Film Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Film Studies honours program"
         },
         {
             "code": "ARTS4612",
             "name": "Media, Culture and Technology Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in Media, Culture and Technology honours program"
         },
         {
             "code": "ARTS4613",
             "name": "Media, Culture and Technology Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in Media, Culture and Technology honours program"
         },
         {
             "code": "ARTS4614",
             "name": "Media, Culture and Technology Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in Media, Culture and Technology honours program"
         },
         {
             "code": "ARTS4616",
             "name": "Theatre and Performance Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in Theatre and Performance Studies honours program"
         },
         {
             "code": "ARTS4617",
             "name": "Theatre and Performance Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in Theatre and Performance Studies honours program"
         },
         {
             "code": "ARTS4618",
             "name": "Theatre and Performance Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in Theatre and Performance Studies honours program"
         },
         {
             "code": "ARTS4620",
             "name": "Creative Writing Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in a Creative Writing honours program"
         },
         {
             "code": "ARTS4621",
             "name": "Creative Writing Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in a Creative Writing honours program"
         },
         {
             "code": "ARTS4622",
             "name": "Creative Writing Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in a Creative Writing honours program"
         },
         {
             "code": "ARTS4700",
             "name": "Environmental Humanities Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in Environmental Humanities honours program"
         },
         {
             "code": "ARTS4701",
             "name": "Environmental Humanities Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in Environmental Humanities honours program"
         },
         {
             "code": "ARTS4702",
             "name": "Environmental Humanities Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in Environmental Humanities honours program"
         },
         {
             "code": "ARTS4704",
             "name": "History Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the History honours program"
         },
         {
             "code": "ARTS4705",
             "name": "History Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the History honours program"
         },
         {
             "code": "ARTS4706",
             "name": "History Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the History honours program"
         },
         {
             "code": "ARTS4712",
             "name": "Philosophy Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Philosophy honours program"
         },
         {
             "code": "ARTS4713",
             "name": "Philosophy Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Philosophy honours program"
         },
         {
             "code": "ARTS4714",
             "name": "Philosophy Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Philosophy honours program"
         },
         {
             "code": "ARTS4810",
             "name": "Asian Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Asian Studies honours program"
         },
         {
             "code": "ARTS4811",
             "name": "Asian Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Asian Studies honours program"
         },
         {
             "code": "ARTS4812",
             "name": "Asian Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Asian Studies honours program"
         },
         {
             "code": "ARTS4814",
             "name": "Chinese Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Chinese Studies honours program"
         },
         {
             "code": "ARTS4815",
             "name": "Chinese Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Chinese Studies honours program"
         },
         {
             "code": "ARTS4816",
             "name": "Chinese Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Chinese Studies honours program"
         },
         {
             "code": "ARTS4818",
             "name": "French Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the French Studies honours program"
         },
         {
             "code": "ARTS4819",
             "name": "French Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the French Studies honours program"
         },
         {
             "code": "ARTS4820",
             "name": "French Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the French Studies honours program"
         },
         {
             "code": "ARTS4822",
             "name": "Spanish & Latin American Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Spanish and Latin American Studies honours program"
         },
         {
             "code": "ARTS4823",
             "name": "Spanish & Latin American Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Spanish and Latin American Studies honours program"
         },
         {
             "code": "ARTS4824",
             "name": "Spanish & Latin American Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Spanish and Latin American Studies honours program"
         },
         {
             "code": "ARTS4826",
             "name": "Japanese Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Japanese Studies honours program"
         },
         {
             "code": "ARTS4827",
             "name": "Japanese Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Japanese Studies honours program"
         },
         {
             "code": "ARTS4828",
             "name": "Japanese Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Japanese Studies honours program"
         },
         {
             "code": "ARTS4830",
             "name": "Korean Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Korean Studies honours program"
         },
         {
             "code": "ARTS4831",
             "name": "Korean Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Korean Studies honours program"
         },
         {
             "code": "ARTS4832",
             "name": "Korean Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Korean Studies honours program"
         },
         {
             "code": "ARTS4834",
             "name": "Linguistics Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Linguistics honours program"
         },
         {
             "code": "ARTS4835",
             "name": "Linguistics Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Linguistics honours program"
         },
         {
             "code": "ARTS4836",
             "name": "Linguistics Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Linguistics honours program"
         },
         {
             "code": "ARTS4838",
             "name": "German Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the German Studies honours program"
         },
         {
             "code": "ARTS4839",
             "name": "German Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the German Studies honours program"
         },
         {
             "code": "ARTS4840",
             "name": "German Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the German Studies honours program"
         },
         {
             "code": "ARTS4900",
             "name": "Development Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Development Studies honours program"
         },
         {
             "code": "ARTS4901",
             "name": "Development Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Development Studies honours program"
         },
         {
             "code": "ARTS4902",
             "name": "Development Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Development Studies honours program"
         },
         {
             "code": "ARTS4904",
             "name": "European Studies Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the European Studies honours program"
         },
         {
             "code": "ARTS4905",
             "name": "European Studies Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the European Studies honours program"
         },
         {
             "code": "ARTS4906",
             "name": "European Studies Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the European Studies honours program"
         },
         {
             "code": "ARTS4912",
             "name": "International Relations Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the International Relations honours program"
         },
         {
             "code": "ARTS4913",
             "name": "International Relations Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the International Relations honours program"
         },
         {
             "code": "ARTS4914",
             "name": "International Relations Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the International Relations honours program"
         },
         {
             "code": "ARTS4916",
             "name": "Politics Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Politics honours program"
         },
         {
             "code": "ARTS4917",
             "name": "Politics Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Politics honours program"
         },
         {
             "code": "ARTS4918",
             "name": "Politics Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Politics honours program"
         },
         {
             "code": "ARTS4920",
             "name": "Sociology and Anthropology Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Sociology and Anthropology honours program"
         },
         {
             "code": "ARTS4921",
             "name": "Sociology and Anthropology Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Sociology and Anthropology honours program"
         },
         {
             "code": "ARTS4922",
             "name": "Sociology and Anthropology Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Sociology and Anthropology honours program"
         },
         {
             "code": "ARTS4924",
             "name": "Politics and International Relations Honours",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolment in the Politics and International Relations honours program"
         },
         {
             "code": "ARTS4925",
             "name": "Politics and International Relations Honours",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolment in the Politics and International Relations honours program"
         },
         {
             "code": "ARTS4926",
             "name": "Politics and International Relations Honours",
-            "uoc": "18"
+            "uoc": "18",
+            "prereq": " Enrolment in the Politics and International Relations honours program"
         },
         {
             "code": "ARTS5100",
@@ -2669,37 +3003,44 @@
         {
             "code": "ATSI2004",
             "name": "Popular Culture of Indigenous Australia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30 units of credit at Level 1"
         },
         {
             "code": "ATSI2011",
             "name": "Indigenous Australian Political History",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30 units of credit at Level 1"
         },
         {
             "code": "ATSI2015",
             "name": "The Science of Indigenous Knowledges",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30 units of credit at Level 1"
         },
         {
             "code": "ATSI3002",
             "name": "Gendered Identities in Indigenous Australia",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 36 units of credit"
         },
         {
             "code": "ATSI3005",
             "name": "Race, Colonialism and Whiteness",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 36 units of credit."
         },
         {
             "code": "ATSI3008",
             "name": "Indigenous Studies Capstone",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 120 units of credit overall, enrolment in a major in Indigenous Studies and enrolled in the final semester of an Arts Faculty single or dual degree program"
         },
         {
             "code": "ATSI3017",
             "name": "Indigenous Histories and the Colonial World",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 36 units of credit"
         },
         {
             "code": "ATSI4001",
@@ -2790,7 +3131,8 @@
         {
             "code": "AVIA1111",
             "name": "Basic Aeronautical Knowledge",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " Enrolled in Aviation Program"
         },
         {
             "code": "AVIA1321",
@@ -2825,37 +3167,44 @@
         {
             "code": "AVIA2111",
             "name": "Commercial Navigation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2112",
             "name": "Commercial Meteorology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2113",
             "name": "Commercial Human Factors, Flight Rules and Air Law",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2114",
             "name": "Commercial Aircraft General Knowledge",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2115",
             "name": "Commercial Aerodynamics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2116",
             "name": "Commercial Operation, Performance and Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1111 and enrolled in 3980"
         },
         {
             "code": "AVIA2117",
             "name": "Instrument Rating",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " Enrolled in 3980 and completion of AVIA2111-2116"
         },
         {
             "code": "AVIA2401",
@@ -2885,7 +3234,8 @@
         {
             "code": "AVIA2910",
             "name": "Air Transport: Economics and the Environment",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1901"
         },
         {
             "code": "AVIA3013",
@@ -2895,32 +3245,38 @@
         {
             "code": "AVIA3101",
             "name": "Airline Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1900,  AVIA2004,  AVIA2014 or 1901 ; Excluded: AVIA3002."
         },
         {
             "code": "AVIA3111",
             "name": "Air Transport Flight Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA2117"
         },
         {
             "code": "AVIA3112",
             "name": "Air Transport Aerodynamics and Aircraft Systems",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA2117"
         },
         {
             "code": "AVIA3113",
             "name": "Air Transport Performance and Navigation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA2117"
         },
         {
             "code": "AVIA3114",
             "name": "Air Transport Air Law, Meteorology and Human Factors",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA2117"
         },
         {
             "code": "AVIA3201",
             "name": "Airline Resource Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA3101"
         },
         {
             "code": "AVIA3301",
@@ -2935,7 +3291,8 @@
         {
             "code": "AVIA3410",
             "name": "Advanced Law and Regulation in Aviation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA2401 or AVIA2013"
         },
         {
             "code": "AVIA3710",
@@ -2945,7 +3302,8 @@
         {
             "code": "AVIA3851",
             "name": "Airport Management 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " AVIA1850 or 2701"
         },
         {
             "code": "AVIA3900",
@@ -2955,12 +3313,14 @@
         {
             "code": "AVIA4003",
             "name": "Aviation Honours - Full Time",
-            "uoc": "16"
+            "uoc": "16",
+            "prereq": " Enrolled in AVIA Honours"
         },
         {
             "code": "AVIA4004",
             "name": "Aviation Honours - Part Time",
-            "uoc": "8"
+            "uoc": "8",
+            "prereq": " Enrolled in AVIA Honours"
         },
         {
             "code": "AVIA5001",
@@ -3131,7 +3491,8 @@
         {
             "code": "BABS2011",
             "name": "Current Trends in Biotechnology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051 or BABS1202 or DPST1052"
         },
         {
             "code": "BABS2202",
@@ -3141,12 +3502,14 @@
         {
             "code": "BABS2204",
             "name": "Genetics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051"
         },
         {
             "code": "BABS2264",
             "name": "Genetics (Advanced Level)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051"
         },
         {
             "code": "BABS3021",
@@ -3156,12 +3519,14 @@
         {
             "code": "BABS3031",
             "name": "Biotechnology and Bioengineering",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " completion of at least 48 UoC"
         },
         {
             "code": "BABS3041",
             "name": "Immunology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2101 or (BIOC2181and MICR2011) or (BIOC2181 and BABS2202)"
         },
         {
             "code": "BABS3061",
@@ -3176,32 +3541,38 @@
         {
             "code": "BABS3081",
             "name": "Bacteria and Disease",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051 and MICR2011"
         },
         {
             "code": "BABS3121",
             "name": "Molecular Biology of Nucleic Acids",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2201, BIOC2101 or BABS2204 or BABS2264 or BABS2202 or MICR2011"
         },
         {
             "code": "BABS3151",
             "name": "Human Molecular Genetics and Disease",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS2204 or BABS2264"
         },
         {
             "code": "BABS3200",
             "name": "Synthetic Biology",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2201"
         },
         {
             "code": "BABS3281",
             "name": "Molecular Frontiers",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2201"
         },
         {
             "code": "BABS3291",
             "name": "Genes, Genomes and Evolution",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS2204 or BABS2264"
         },
         {
             "code": "BABS3301",
@@ -3211,7 +3582,8 @@
         {
             "code": "BABS3631",
             "name": "Biotechnology & Bioengineering Advanced",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " completion of at least 48 UoC"
         },
         {
             "code": "BABS4516",
@@ -3298,7 +3670,8 @@
         {
             "code": "BEES6741",
             "name": "Astrobiology: Life in the Universe",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30UOC of Science courses completed"
         },
         {
             "code": "BEES6800",
@@ -3318,7 +3691,8 @@
         {
             "code": "BEES6741",
             "name": "Astrobiology: Life in the Universe",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 30UOC of Science courses completed"
         },
         {
             "code": "BEES9011",
@@ -3330,112 +3704,134 @@
         {
             "code": "BEIL0001",
             "name": "Graphic Design for the Built Environment",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0003",
             "name": "Built Environment Annual Design Competition",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0005",
             "name": "People, Place and Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0006",
             "name": "BE OutThere Elective",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0007",
             "name": "Sustainable Design Thinking",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0008",
             "name": "Design Project Management - Vision to Reality",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BEIL0009",
             "name": "Exhibition Design: Transforming Temporary Space",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0010",
             "name": "Creating Value for Built Environment Clients",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0011",
             "name": "Healthy Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0014",
             "name": "Digital Making",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0016",
             "name": "Renewing the Urban Environment",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0017",
             "name": "Business Start Up",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL0020",
             "name": "International Construction Study Trip",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6000",
             "name": "Mapping Social Justice in the City",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BEIL6001",
             "name": "International Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6002",
             "name": "Urban and Regional Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6003",
             "name": "Cinematic Space",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BEIL6005",
             "name": "Researching Art, Architecture and Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6006",
             "name": "Heritage Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6007",
             "name": "International Study Tour",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6008",
             "name": "International Design Studio",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6009",
             "name": "Integrated Building Design Case Studies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6010",
@@ -3445,57 +3841,68 @@
         {
             "code": "BEIL6011",
             "name": "Street Life Studies: Sydney Phnom Penh",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6012",
             "name": "Asian Urbanism Laboratory",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6000",
             "name": "Mapping Social Justice in the City",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BEIL6001",
             "name": "International Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6002",
             "name": "Urban and Regional Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6003",
             "name": "Cinematic Space",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BEIL6005",
             "name": "Researching Art, Architecture and Design",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6006",
             "name": "Heritage Planning",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6007",
             "name": "International Study Tour",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6008",
             "name": "International Design Studio",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6009",
             "name": "Integrated Building Design Case Studies",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6010",
@@ -3505,12 +3912,14 @@
         {
             "code": "BEIL6011",
             "name": "Street Life Studies: Sydney Phnom Penh",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         },
         {
             "code": "BEIL6012",
             "name": "Asian Urbanism Laboratory",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 unit of credits completed"
         }
     ],
     "BENV": [
@@ -3542,7 +3951,8 @@
         {
             "code": "BENV1072",
             "name": "Design for Energy Efficiency",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 72 units of credit"
         },
         {
             "code": "BENV2000",
@@ -3612,7 +4022,8 @@
         {
             "code": "BENV6713",
             "name": "Architectural Spatialisation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BENV6800",
@@ -3627,7 +4038,8 @@
         {
             "code": "BENV6713",
             "name": "Architectural Spatialisation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " 96 units of credit completed in Built Environment"
         },
         {
             "code": "BENV6800",
@@ -3714,12 +4126,14 @@
         {
             "code": "BINF2010",
             "name": "Introduction to Bioinformatics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 OR DPST1051"
         },
         {
             "code": "BINF3010",
             "name": "Applied Bioinformatics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS2204 OR BABS2264 OR BIOC2201."
         },
         {
             "code": "BINF6111",
@@ -3729,7 +4143,8 @@
         {
             "code": "BINF6112",
             "name": "Computational Biology Engineering Design Workshop",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " COMP1531 or COMP2041"
         },
         {
             "code": "BINF6111",
@@ -3739,7 +4154,8 @@
         {
             "code": "BINF6112",
             "name": "Computational Biology Engineering Design Workshop",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " COMP1531 or COMP2041"
         },
         {
             "code": "BINF9010",
@@ -3751,17 +4167,20 @@
         {
             "code": "BIOC2101",
             "name": "Principles of Biochemistry (Advanced)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1051 or CHEM1811 and CHEM1021 or DPST1032 or CHEM1041 or CHEM1061 or CHEM1821"
         },
         {
             "code": "BIOC2181",
             "name": "Fundamentals of Biochemistry",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1831"
         },
         {
             "code": "BIOC2201",
             "name": "Principles of Molecular Biology (Advanced)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BABS1201 or DPST1051 and CHEM1011 or DPST1031 or CHEM1031 or CHEM1051 or CHEM1811 and CHEM1021 or DPST1032 or CHEM1041 or CHEM1061 or CHEM1821"
         },
         {
             "code": "BIOC3111",
@@ -3771,17 +4190,20 @@
         {
             "code": "BIOC3261",
             "name": "Human Biochemistry",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2101, BIOC2201"
         },
         {
             "code": "BIOC3271",
             "name": "Molecular Cell Biology 2",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2101, BIOC2201"
         },
         {
             "code": "BIOC3671",
             "name": "Molecular Cell Biology 2 (Advanced)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOC2101, BIOC2201. Restricted to Advanced Science programs (3985, 3990, 3962, 3972, 3973, 3986, 3931, 3936)"
         },
         {
             "code": "BIOC8608",
@@ -3808,22 +4230,26 @@
         {
             "code": "BIOM4951",
             "name": "Research Thesis A",
-            "uoc": "4"
+            "uoc": "4",
+            "prereq": " Completion of 126 UOC and completion of 3rd year core"
         },
         {
             "code": "BIOM4952",
             "name": "Research Thesis B",
-            "uoc": "4"
+            "uoc": "4",
+            "prereq": " Completion of Research Thesis A (4951)"
         },
         {
             "code": "BIOM4953",
             "name": "Research Thesis C",
-            "uoc": "4"
+            "uoc": "4",
+            "prereq": " Completion of Research Thesis B (4952)"
         },
         {
             "code": "BIOM5951",
             "name": "Thesis Part B (Computer Science Engineering)",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BIOM5950"
         },
         {
             "code": "BIOM9020",
@@ -4214,7 +4640,8 @@
         {
             "code": "BLDG2022",
             "name": "Procurement and Contract Administration",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "  BLDG2012"
         },
         {
             "code": "BLDG2023",
@@ -4239,7 +4666,8 @@
         {
             "code": "BLDG3021",
             "name": "Property Development",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": " BLDG2013"
         },
         {
             "code": "BLDG3022",
@@ -4254,42 +4682,50 @@
         {
             "code": "BLDG4018",
             "name": "Building Appraisal and Land Economics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4019",
             "name": "Property and Asset Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4020",
             "name": "Total Building Performance and Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4022",
             "name": "Construction Cost Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4023",
             "name": "Construction Value Management",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4024",
             "name": "Business Intelligence and Data Analytics",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4501",
             "name": "Thesis Foundation",
-            "uoc": "6"
+            "uoc": "6",
+            "prereq": "4522 or Program 3332 with WAM of 65 or over"
         },
         {
             "code": "BLDG4504",
             "name": "Thesis",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " BLDG4501 or BENV4000"
         }
     ],
     "CDEV": [
@@ -4388,7 +4824,8 @@
         {
             "code": "CEIC4005",
             "name": "Thesis",
-            "uoc": "12"
+            "uoc": "12",
+            "prereq": " at least 144 Units taken in Chemical  Eng or Industrial Chem programs and INDC2003 CEIC3003"
         },
         {
             "code": "CEIC4007",
