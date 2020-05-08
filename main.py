@@ -38,7 +38,7 @@ class App():
                 edited = True
         if not edited:
             courses.append((course, False))
-        
+        courses = sorted(courses, key= lambda x: x[0])
         with open('list.json', 'w+') as fwrite:
             json.dump(courses, fwrite)
         self.list_courses(lbox, finish)
@@ -55,15 +55,23 @@ class App():
             json.dump(courses, f)
         self.list_courses(lbox, True)
 
-    def list_courses(self, lbox, full = False):
+    def list_courses(self, lbox, finished = False):
         lbox.delete(0, 'end')
         with open('list.json', 'r+') as fread:
             data = json.load(fread)
         for course in data:
-            if full:
+            if finished:
                 if course[1]:
                     lbox.insert(tk.END, course[0])
             else:
+                lbox.insert(tk.END, course[0])
+
+    def list_courses_left(self, lbox):
+        lbox.delete(0, 'end')
+        with open('list.json', 'r') as f:
+            courses = json.load(f)
+        for course in courses:
+            if not course[1]:
                 lbox.insert(tk.END, course[0])
 
     def update_progess(self, prog):
@@ -95,7 +103,6 @@ listfinished = tk.Listbox(app.rightFrame, width=50, height=20)
 listfinished.pack()
 app.list_courses(listfinished, True)
 
-
 txtcourse = tk.Entry(app.win, width=50, borderwidth=5, font=('Aerial', 20))
 txtcourse.pack()
 
@@ -106,7 +113,18 @@ progress.pack()
 btnaddcourse = tk.Button(app.win, text='Add Course', command= lambda: [app.add_course(listcourse, txtcourse.get(), False), clear_text(txtcourse)])
 btnaddcourse.pack()
 
-app.win.bind('<Return>', lambda e: [app.add_course(listcourse, txtcourse.get(), False), clear_text(txtcourse), app.update_progess(progress)])
-listcourse.bind('<Double-1>', lambda e: [app.add_course(listfinished, listcourse.get(listcourse.curselection()[0]), True), app.update_progess(progress)])
-listfinished.bind('<Double-1>', lambda e: [app.remove_finished_course(listfinished, listfinished.get(listfinished.curselection()[0])), app.update_progess(progress)])
+tk.Label(app.win, text='Courses Left', font=('Aerial', 30)).pack()
+listleft = tk.Listbox(app.win, width=50, height=20)
+listleft.pack()
+
+app.list_courses_left(listleft)
+
+
+
+
+
+app.win.bind('<Return>', lambda e: [app.add_course(listcourse, txtcourse.get(), False), clear_text(txtcourse), app.update_progess(progress), app.list_courses_left(listleft)])
+listcourse.bind('<Double-1>', lambda e: [app.add_course(listfinished, listcourse.get(listcourse.curselection()[0]), True), app.update_progess(progress), app.list_courses_left(listleft)])
+listfinished.bind('<Double-1>', lambda e: [app.remove_finished_course(listfinished, listfinished.get(listfinished.curselection()[0])), app.update_progess(progress), app.list_courses_left(listleft)])
+listleft.bind('<Double-1>', lambda e: [app.add_course(listfinished, listleft.get(listleft.curselection()[0]), True), app.update_progess(progress), app.list_courses_left(listleft)])
 app.win.mainloop()
