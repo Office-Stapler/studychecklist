@@ -1,39 +1,9 @@
 [{
     "name": "FacultyOfArtDesign",
-    "id": "57a56ceb4f0093004aa6eb4f0310c7af",
-    "programs": [
-        "4803",
-        "4516",
-        "4822",
-        "4527",
-        "4821",
-        "4526",
-        "4813",
-        "4528"],
-    "double": [
-        "3957",
-        "4817",
-        "4703",
-        "4815",
-        "3575",
-        "3572",
-        "3791",
-        "4066",
-        "4824",
-        "4823",
-        "4063",
-        "4759",
-        "4064",
-        "3958"]
+    "id": "57a56ceb4f0093004aa6eb4f0310c7af"
 }, {
     "name": "DvcacademicBoardOfStudies",
-    "id": "5fa56ceb4f0093004aa6eb4f0310c7b3",
-    "programs": [
-        "4519",
-        "7016",
-        "7019",
-        "6114",
-        "6115"]
+    "id": "5fa56ceb4f0093004aa6eb4f0310c7b3"
 }, {
     "name": "FacultyOfArtsAndSocialSciences",
     "id": "d7a56ceb4f0093004aa6eb4f0310c7ac"
