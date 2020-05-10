@@ -1107,7 +1107,7 @@
             "name": "Architectural Fabrication",
             "uoc": "6",
             "prereq": [
-                "Pre-requisites:"
+                "ARCH1202, ARCH1261"
             ]
         },
         {
