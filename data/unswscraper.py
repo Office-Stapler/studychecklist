@@ -3,58 +3,12 @@ import requests
 import json
 import re
 import time
-
-def get_info_subject(subject):
-    url = f'http://timetable.unsw.edu.au/2020/{subject}KENS.html'
-    page = requests.get(url)
-    if page.status_code == 404:
-        url = f'http://timetable.unsw.edu.au/2020/{subject}COFA.html'
-        page = requests.get(url)
-        if page.status_code == 404:
-            url = f'http://timetable.unsw.edu.au/2020/{subject}ADFA.html'
-            page = requests.get(url)
-    soup = bs4.BeautifulSoup(page.text, 'html.parser')
-    subjects = soup.find_all('td', class_='formBody')
-    ugrad = list(filter(lambda x: x != '', subjects[3].get_text().split('\n')))[3::]
-    try:
-        pgrad = list(filter(lambda x: x != '', subjects[5].get_text().split('\n')))[3::]
-    except:
-        pgrad = []
-    try:
-        research = list(filter(lambda x: x != '', subjects[7].get_text().split('\n')))[3::]
-    except:
-        research = []
-
-    code = []
-    title = []
-    unit = []
-    
-    code.extend(ugrad[::3])
-    title.extend(ugrad[1::3])
-    unit.extend(ugrad[2::3])
-
-    if pgrad != []:
-        code.extend(pgrad[::3])
-        title.extend(pgrad[1::3])
-        unit.extend(pgrad[2::3])
-    if research != []:
-        code.extend(pgrad[::3])
-        title.extend(research[1::3])
-        unit.extend(research[2::3])
-    final = list(zip(code, title, unit))
-
-    with open('subjectinfo.json', 'r+') as f:
-        courses = json.load(f)
-        f.seek(0)
-        courses.extend(final)
-        json.dump(courses, f, indent=4)
-
-def get_single_degrees(cid):
+from werkzeug.exceptions import Forbidden
+def get_single_degrees(cid, index):
     url = f'https://www.handbook.unsw.edu.au/api/content/query/+contentType:course%20+course.implementation_year:2020%20-course.is_multi_award:1%20+course.parent_academic_org:{cid}%20+course.study_level:undergraduate%20/orderby/course.name%20asc'
     degrees = json.loads(requests.get(url).text)
     degreeJSON = []
     for degree in degrees['contentlets']:
-        #print(degree)
         try:
             degreeJSON.append({
                 'uac_code': degree['uac_code'],
@@ -67,18 +21,17 @@ def get_single_degrees(cid):
                 'code': degree['code'],
                 'name': degree['name']
             })
-    with open('single_degrees.json', 'r') as f:
+    with open('../faculties.json', 'r') as f:
         local_degree = json.load(f)
-    local_degree.extend(degreeJSON)
-    with open('single_degrees.json', 'w') as f:
+    local_degree[index]['programs'] = degreeJSON
+    with open('../faculties.json', 'w') as f:
         json.dump(local_degree, f, indent=4)
 
-def get_double_degrees(cid):
+def get_double_degrees(cid, index):
     url = f'https://www.handbook.unsw.edu.au/rest/multi_award/field/parent_academic_org/id/*{cid}*/year/2020/level/undergraduate/limit/200/?json'
     degrees = json.loads(requests.get(url).text)
     degreeJSON = []
     for degree in degrees['contentlets']:
-        #print(degree)
         try:
             degreeJSON.append({
                 'uac_code': degree['uac_code'],
@@ -91,22 +44,69 @@ def get_double_degrees(cid):
                 'code': degree['code'],
                 'name': degree['name']
             })
-    with open('double_degrees.json', 'r') as f:
+    with open('../faculties.json', 'r') as f:
         local_degree = json.load(f)
-    local_degree.extend(degreeJSON)
-    with open('double_degrees.json', 'w') as f:
+    local_degree[index]['programs'].extend(degreeJSON)
+    with open('../faculties.json', 'w') as f:
         json.dump(local_degree, f, indent=4)
 
-with open('double_degrees.json') as f:
-    degrees = json.load(f)
+UGRAD_URL = 'https://www.handbook.unsw.edu.au/undergraduate/courses/2020/'
+PGRAD_URL = 'https://www.handbook.unsw.edu.au/postgraduate/courses/2020/'
 
-degrees = sorted(degrees, key=lambda x: x['name'])
-with open('double_degrees.json', 'w') as f:
-    json.dump(degrees, f, indent=4)
+def write_enrolment_conditions(info, subjects, subject):
+    if info is not None:
+        conditions = info.find_all(class_='a-card-text m-toggle-text has-focus')
+        subject['prereq'] = conditions[0].get_text().strip()
+    with open('subjectinfo.json', 'w') as f:
+        json.dump(subjects, f, indent=4)
 
-""" with open('../faculties.json', 'r') as f:
-    facs = json.load(f)
-for fac in facs:
-    get_double_degrees(fac['id'])
-    print(f'Finished dumping {fac["name"]}')
-    time.sleep(1) """
+def req_enrolment_conditions(subject, url):
+    print(subject['name'], subject['code'])
+    page = requests.get(url + f'{subject["code"]}')
+    if page.status_code == 403:
+        raise Forbidden('Restricted Access')
+    soup = bs4.BeautifulSoup(page.text, 'html.parser')
+    info = soup.find(id='SubjectConditions')
+    return info
+
+def find_all_conditions(url):
+    with open('subjectinfo.json', 'r') as f:
+        subjects = json.load(f)
+    for faculty in subjects:
+        for subject in subjects[faculty]:
+            if isinstance(subject['prereq'], list):
+                info = req_enrolment_conditions(subject, url)
+                write_enrolment_conditions(info, subjects, subject)
+                time.sleep(0.5)
+
+def get_uac_code_double():
+    with open('double_degrees.json', 'r') as f:
+        degrees = json.load(f)
+
+        for degree in degrees:
+            page = requests.get(f'https://www.handbook.unsw.edu.au/undergraduate/programs/2020/{degree["code"]}')
+            soup = bs4.BeautifulSoup(page.text, 'html.parser')
+            text = soup.get_text()
+            try:
+                start = text.index('UAC Code') + len('UAC Code')
+                hit_letter = False
+                for index, char in enumerate(text[start:]):
+                    if not hit_letter and char == ' ':
+                        continue
+                    if char == '\n' and not hit_letter:
+                        hit_letter = True
+                    elif char =='\n':
+                        end = index + start
+                        break
+                code = text[start:end].strip()
+                degree['uac_code'] = code
+                print(str(degree['name']) + ' uac_code: ' + code)
+                with open('double_degrees.json', 'w') as f:
+                    json.dump(degrees, f, indent=4)
+            except ValueError:
+                print('No UAC Code found')
+            time.sleep(1)
+def handbook_prereq_parser():
+    pass
+
+find_all_conditions(PGRAD_URL)
